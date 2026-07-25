@@ -1,0 +1,4623 @@
+[
+  {
+    "id": 1,
+    "nombre": "Libreta Profesional Scribe",
+    "categoria": "Libretas",
+    "modelo": "Espiral",
+    "alias": [
+    "scribe",
+    "escribe",
+
+    "libreta scribe",
+    "libreta escribe",
+
+    "libreta profesional",
+    "libreta profesional scribe",
+    "libreta profesional escribe",
+
+    "libreta espiral",
+    "libreta con espiral",
+
+    "libreta raya",
+    "libreta cuadro grande",
+    "libreta cuadro chico",
+    "libreta doble raya",
+    "libreta dibujo",
+    "libreta cuadro aleman",
+
+    "libreta de raya",
+    "libreta de cuadro grande",
+    "libreta de cuadro chico",
+    "libreta de doble raya",
+    "libreta de dibujo",
+    "libreta de cuadro aleman",
+
+    "profesional raya",
+    "profesional cuadro grande",
+    "profesional cuadro chico",
+    "profesional doble raya",
+    "profesional dibujo",
+    "profesional cuadro aleman",
+
+    "profesional de raya",
+    "profesional de cuadro grande",
+    "profesional de cuadro chico",
+    "profesional de doble raya",
+    "profesional de dibujo",
+    "profesional de cuadro aleman"
+  ],
+    "tipos": [
+      "Raya",
+      "Cuadro Grande",
+      "Cuadro Chico",
+      "Doble Raya",
+      "Dibujo",
+      "Cuadro Aleman"
+    ],
+    "descripcion":"Libreta Profesional De 100 Hojas Con Espiral Pasta De Pasta Delgada , Perfecta Para Este Regreso a Clases, Tomar Apuntes y Desarrollar Tu Creatividad,  En Una Variedad De  Colores Disponibles : Rojo, Amarillo, Verde , Azul y Naranja",
+    "imagenes": ["/profesional.jpg",
+                 "/resorteazul2.jpg",
+                 "/resorteverde2.png",
+                 "/resorteamarilla.jpg",
+                 "/resortenaranja.jpeg"]
+  },
+  {
+    "id": 2,
+    "nombre": "Libreta Profesional Scribe",
+    "categoria": "Libretas",
+    "modelo": "Cosida",
+    "alias": [
+        "scribe",
+        "escribe",
+
+        "libreta scribe",
+        "libreta escribe",
+
+        "libreta profesional",
+        "libreta profesional scribe",
+        "libreta profesional escribe",
+
+        "libreta cosida",
+        "profesional cosida",
+        "libreta profesional cosida",
+
+        "cosida",
+        "cosido",
+
+        "libreta raya",
+        "libreta cuadro grande",
+        "libreta cuadro chico",
+        "libreta doble raya",
+        "libreta dibujo",
+        "libreta cuadro aleman",
+
+        "libreta de raya",
+        "libreta de cuadro grande",
+        "libreta de cuadro chico",
+        "libreta de doble raya",
+        "libreta de dibujo",
+        "libreta de cuadro aleman",
+
+        "profesional raya",
+        "profesional cuadro grande",
+        "profesional cuadro chico",
+        "profesional doble raya",
+        "profesional dibujo",
+        "profesional cuadro aleman",
+
+        "profesional de raya",
+        "profesional de cuadro grande",
+        "profesional de cuadro chico",
+        "profesional de doble raya",
+        "profesional de dibujo",
+        "profesional de cuadro aleman",
+
+        "libreta scribe cosida",
+        "libreta escribe cosida",
+        "libreta profesional scribe cosida",
+        "libreta profesional escribe cosida"
+      ],
+    "tipos": [
+      "Raya",
+      "Cuadro Grande",
+      "Cuadro Chico",
+      "Doble Raya",
+      "Dibujo",
+      "Cuadro Aleman"
+    ],
+    "descripcion":"Libreta Profesional De 100 Hojas Cosida De Pasta Delgada , Perfecta Para Comprar y Usar Sin Tener Que Forrar Con Variados Colores Disponibles: Rojo, Amarillo, Verde , Azul y Naranja",
+    "imagenes": ["/cosida.jpg",
+                 "/cosidaAzul.jpg",
+                 "/cosidaVerde.jpg",
+                 "/cosidaAmarilla.jpg",
+                 "/cosidaroja.jpg"]
+  },
+  {
+    "id": 3,
+    "nombre": "Cuaderno Italiano Scribe",
+    "categoria": "Libretas",
+     "alias": [
+          "scribe",
+          "escribe",
+
+          "cuaderno scribe",
+          "cuaderno escribe",
+
+          "cuaderno italiano",
+          "cuaderno italiano scribe",
+          "cuaderno italiano escribe",
+
+          "italiano",
+          "italiana",
+
+          "cuaderno espiral",
+          "cuaderno con espiral",
+          "cuaderno de espiral",
+
+          "cuaderno italiano espiral",
+          "cuaderno italiano con espiral",
+          "cuaderno italiano de espiral",
+
+          "italiano espiral",
+          "italiano con espiral",
+          "italiano de espiral",
+
+          "cuaderno raya",
+          "cuaderno cuadro grande",
+          "cuaderno cuadro chico",
+          "cuaderno doble raya",
+          "cuaderno dibujo",
+          "cuaderno cuadro aleman",
+
+          "cuaderno de raya",
+          "cuaderno de cuadro grande",
+          "cuaderno de cuadro chico",
+          "cuaderno de doble raya",
+          "cuaderno de dibujo",
+          "cuaderno de cuadro aleman",
+
+          "cuaderno italiano raya",
+          "cuaderno italiano cuadro grande",
+          "cuaderno italiano cuadro chico",
+          "cuaderno italiano doble raya",
+          "cuaderno italiano dibujo",
+          "cuaderno italiano cuadro aleman",
+
+          "cuaderno italiano de raya",
+          "cuaderno italiano de cuadro grande",
+          "cuaderno italiano de cuadro chico",
+          "cuaderno italiano de doble raya",
+          "cuaderno italiano de dibujo",
+          "cuaderno italiano de cuadro aleman",
+
+          "italiano raya",
+          "italiano cuadro grande",
+          "italiano cuadro chico",
+          "italiano doble raya",
+          "italiano dibujo",
+          "italiano cuadro aleman",
+
+          "italiano de raya",
+          "italiano de cuadro grande",
+          "italiano de cuadro chico",
+          "italiano de doble raya",
+          "italiano de dibujo",
+          "italiano de cuadro aleman"
+        ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Raya",
+      "Cuadro Grande",
+      "Cuadro Chico",
+      "Doble Raya",
+      "Dibujo",
+      "Cuadro Aleman"
+    ],
+    
+    "descripcion":"Cuaderno resistente con 100 hojas que brinda mayor durabilidad para el uso diario en la escuela o el trabajo, Con una Gran Variedad de Diseños Distintos En Tienda",
+    "imagenes": ["/itaespiral.jpg",
+                 "/cuaderno1.jpeg",
+                 "/cuaderno2.jpeg",
+                 "/cuaderno3.jpeg",
+                 "/cuaderno4.jpeg"]
+  },
+  {
+    "id": 4,
+    "nombre": "Cuaderno Italiano  Scribe",
+    "categoria": "Libretas",
+    "alias": [
+        "scribe",
+        "escribe",
+
+        "cuaderno scribe",
+        "cuaderno escribe",
+
+        "cuaderno italiano",
+        "cuaderno italiano scribe",
+        "cuaderno italiano escribe",
+
+        "italiano",
+        "italiana",
+        "libreta italiana",
+
+        "cosido",
+        "cosida",
+
+        "cuaderno cosido",
+        "cuaderno cosida",
+
+        "cuaderno italiano cosido",
+        "cuaderno italiano cosida",
+
+        "italiano cosido",
+        "italiano cosida",
+
+        "cuaderno raya",
+        "cuaderno cuadro grande",
+        "cuaderno cuadro chico",
+        "cuaderno doble raya",
+        "cuaderno dibujo",
+        "cuaderno cuadro aleman",
+
+        "cuaderno de raya",
+        "cuaderno de cuadro grande",
+        "cuaderno de cuadro chico",
+        "cuaderno de doble raya",
+        "cuaderno de dibujo",
+        "cuaderno de cuadro aleman",
+
+        "cuaderno italiano raya",
+        "cuaderno italiano cuadro grande",
+        "cuaderno italiano cuadro chico",
+        "cuaderno italiano doble raya",
+        "cuaderno italiano dibujo",
+        "cuaderno italiano cuadro aleman",
+
+        "cuaderno italiano de raya",
+        "cuaderno italiano de cuadro grande",
+        "cuaderno italiano de cuadro chico",
+        "cuaderno italiano de doble raya",
+        "cuaderno italiano de dibujo",
+        "cuaderno italiano de cuadro aleman",
+
+        "italiano raya",
+        "italiano cuadro grande",
+        "italiano cuadro chico",
+        "italiano doble raya",
+        "italiano dibujo",
+        "italiano cuadro aleman",
+
+        "italiano de raya",
+        "italiano de cuadro grande",
+        "italiano de cuadro chico",
+        "italiano de doble raya",
+        "italiano de dibujo",
+        "italiano de cuadro aleman"
+      ],
+    "modelo": "Cosida",
+    "tipos": [
+      "Raya",
+      "Cuadro Grande",
+      "Cuadro Chico",
+      "Doble Raya",
+      "Dibujo",
+      "Cuadro Aleman"
+    ],
+    
+    "descripcion":"Cuaderno resistente con  100 hojas cosidas que brinda mayor durabilidad para el uso diario en la escuela o el trabajo.",
+    "imagenes": ["/ita2.jpg",
+                "/cuadernocosido1.jpeg",
+                 "/cuadernocosido2.jpeg",
+                 "/cuadernocosido3.jpeg",
+                 "/cuadernocosido4.jpeg"  ]
+  },
+  {
+    "id": 5,
+    "nombre": "Cuaderno Italiano Estrella",
+    "categoria": "Libretas",
+    "modelo": "De Garapa",
+    "alias": [
+        "estrella",
+
+        "cuaderno estrella",
+
+        "cuaderno italiano",
+        "cuaderno italiano estrella",
+
+        "italiano",
+        "italiana",
+        "libreta italiana",
+
+        "grapa",
+        "grapado",
+        "grapada",
+        "de grapa",
+
+        "cuaderno grapa",
+        "cuaderno de grapa",
+        "cuaderno grapado",
+
+        "cuaderno italiano grapa",
+        "cuaderno italiano de grapa",
+        "cuaderno italiano grapado",
+
+        "italiano grapa",
+        "italiano de grapa",
+        "italiano grapado",
+
+        "cuaderno raya",
+        "cuaderno cuadro grande",
+        "cuaderno cuadro chico",
+        "cuaderno doble raya",
+        "cuaderno dibujo",
+        "cuaderno cuadro aleman",
+
+        "cuaderno de raya",
+        "cuaderno de cuadro grande",
+        "cuaderno de cuadro chico",
+        "cuaderno de doble raya",
+        "cuaderno de dibujo",
+        "cuaderno de cuadro aleman",
+
+        "cuaderno italiano raya",
+        "cuaderno italiano cuadro grande",
+        "cuaderno italiano cuadro chico",
+        "cuaderno italiano doble raya",
+        "cuaderno italiano dibujo",
+        "cuaderno italiano cuadro aleman",
+
+        "cuaderno italiano de raya",
+        "cuaderno italiano de cuadro grande",
+        "cuaderno italiano de cuadro chico",
+        "cuaderno italiano de doble raya",
+        "cuaderno italiano de dibujo",
+        "cuaderno italiano de cuadro aleman",
+
+        "italiano raya",
+        "italiano cuadro grande",
+        "italiano cuadro chico",
+        "italiano doble raya",
+        "italiano dibujo",
+        "italiano cuadro aleman",
+
+        "italiano de raya",
+        "italiano de cuadro grande",
+        "italiano de cuadro chico",
+        "italiano de doble raya",
+        "italiano de dibujo",
+        "italiano de cuadro aleman"
+      ],
+    "tipos": [
+      "Raya",
+      "Cuadro Grande",
+      "Cuadro Chico",
+      "Doble Raya",
+      "Dibujo",
+      "Cuadro Aleman"
+    ],
+    "descripcion":"Cuaderno de formato horizontal ideal para dibujo, esquemas, proyectos escolares y actividades creativas, Contamos Con Modelos Estrella y Scribe, Con Una Gran Variedad de Diseños y Colores Distintos En Tienda",
+    "imagenes": ["/grapa.jpg",
+                 "/grapadoazul.png",
+                 "/grapadorojo.png  ",
+                 "/grapadonaranja.png",
+                 "/ita2.jpg"]
+  },
+  {
+    "id": 6,
+    "nombre": "Libreta Francesa Scribe ",
+    "categoria": "Libretas",
+    "modelo": "Espiral",
+    "tipos": [
+      "Raya",
+      "Cuadro Grande",
+      "Cuadro Chico",
+      "Doble Raya"
+    ],
+    "descripcion":"Libreta compacta y práctica para tareas escolares, apuntes rápidos y actividades diarias. Fácil de transportar en mochilas y portafolios, Contando Con Distintos Diseños para Elegir",
+    "alias": [
+        "scribe",
+        "escribe",
+
+        "libreta scribe",
+        "libreta escribe",
+
+        "libreta francesa",
+        "libreta francesa scribe",
+        "libreta francesa escribe",
+
+        "francesa",
+
+        "espiral",
+
+        "libreta espiral",
+        "libreta con espiral",
+
+        "libreta francesa espiral",
+        "libreta francesa con espiral",
+
+        "francesa espiral",
+        "francesa con espiral",
+
+        "libreta raya",
+        "libreta cuadro grande",
+        "libreta cuadro chico",
+        "libreta doble raya",
+
+        "libreta de raya",
+        "libreta de cuadro grande",
+        "libreta de cuadro chico",
+        "libreta de doble raya",
+
+        "francesa raya",
+        "francesa cuadro grande",
+        "francesa cuadro chico",
+        "francesa doble raya",
+
+        "francesa de raya",
+        "francesa de cuadro grande",
+        "francesa de cuadro chico",
+        "francesa de doble raya",
+
+        "libreta francesa raya",
+        "libreta francesa cuadro grande",
+        "libreta francesa cuadro chico",
+        "libreta francesa doble raya",
+
+        "libreta francesa de raya",
+        "libreta francesa de cuadro grande",
+        "libreta francesa de cuadro chico",
+        "libreta francesa de doble raya"
+      ],
+    "imagenes": ["/francesa2.jpg",
+                 "/resortefrancia1.png",
+                 "/resortefrancia2.jpg",
+                 "/resortefrancia3.jpg",
+                 "/resortefrancia4.jpg"]
+  },
+  {
+    "id": 7,
+    "nombre": "Libreta Francesa Scribe",
+    "categoria": "Libretas",
+    "modelo": "Cosida",
+    "alias": [
+        "scribe",
+        "escribe",
+
+        "libreta scribe",
+        "libreta escribe",
+
+        "libreta francesa",
+        "libreta francesa scribe",
+        "libreta francesa escribe",
+
+        "francesa",
+
+        "cosida",
+        "cosido",
+
+        "libreta cosida",
+        "libreta cosido",
+
+        "libreta francesa cosida",
+        "libreta francesa cosido",
+
+        "francesa cosida",
+        "francesa cosido",
+
+        "libreta raya",
+        "libreta cuadro grande",
+
+        "libreta de raya",
+        "libreta de cuadro grande",
+
+        "francesa raya",
+        "francesa cuadro grande",
+
+        "francesa de raya",
+        "francesa de cuadro grande",
+
+        "libreta francesa raya",
+        "libreta francesa cuadro grande",
+
+        "libreta francesa de raya",
+        "libreta francesa de cuadro grande"
+      ],
+    "tipos": [
+      "Raya",
+      "Cuadro Grande"
+    ],
+    "descripcion":"Libreta compacta y práctica para tareas escolares, apuntes rápidos y actividades diarias. Fácil de transportar en mochilas y portafolios.",
+    "imagenes": ["/francesacosida.jpg",
+                 "/cosidafrancia1.jpg",
+                 "/cosidafrancia2.jpg",
+                 "/cosidafrancia3.jpg",
+                 "/cosidafrancia4.jpg" ]
+  },
+  {
+    "id": 8,
+    "nombre": "Libreta Para Apuntes Estrella ",
+    "categoria": "Libretas",
+          "alias": [
+        "estrella",
+
+        "libreta estrella",
+
+        "libreta apuntes",
+        "libreta para apuntes",
+
+        "libreta estrella apuntes",
+        "libreta estrella para apuntes",
+
+        "apuntes",
+
+        "espiral",
+
+        "libreta espiral",
+        "libreta con espiral",
+
+        "libreta estrella espiral",
+        "libreta estrella con espiral",
+
+        "apuntes espiral",
+        "libreta apuntes espiral",
+
+        "libreta raya",
+        "libreta de raya",
+
+        "libreta apuntes raya",
+        "libreta apuntes de raya",
+
+        "libreta estrella raya",
+        "libreta estrella de raya",
+
+        "libreta estrella apuntes raya",
+        "libreta estrella apuntes de raya"
+      ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Raya"
+    ],
+    "descripcion":"Libreta compacta y práctica para tareas escolares, apuntes rápidos y actividades diarias. Contando Con La Comodidad Del Resorte A la Hora De Realizar Tus Actividades, Con llamativos diseños",
+    "imagenes": ["/estrella.jpg",
+                 "/apuntes.png",
+                 "/apuntes2.jpeg"
+                 ]
+  },
+  {
+    "id": 9,
+    "nombre": "Libreta De Bolsillo Estrella",
+    "categoria": "Libretas",
+   "alias":[
+        "estrella",
+        "libreta estrella",
+
+        "libreta de bolsillo",
+        "libreta bolsillo",
+        "libreta de bolsillo estrella",
+        "libreta bolsillo estrella",
+
+        "libreta chica",
+        "libreta chiquita",
+        "libreta pequeña",
+        "libreta mini",
+        "libreta compacta",
+
+        "libreta espiral",
+        "libreta con espiral",
+        "libreta de espiral",
+        "libreta espiral chica",
+        "libreta de espiral chica",
+
+        "libreta raya",
+        "libreta de raya",
+        "libreta rayada",
+        "libreta con raya",
+
+        "libreta para apuntes",
+        "libreta de apuntes",
+        "libreta para notas",
+        "libreta de notas",
+        "libreta recordatorio",
+        "libreta para recordatorios",
+
+        "cuaderno de bolsillo",
+        "cuaderno bolsillo",
+        "cuaderno chico",
+        "cuaderno pequeño",
+        "cuaderno mini",
+
+        "cuadernito",
+        "libretita",
+        "libretita de bolsillo",
+
+        "agenda chica",
+        "bloc de notas chico",
+        "bloc pequeño"
+      ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Raya"
+    ],
+    "descripcion":"Ideal Para Puntes, Notas o Recordatorios Del Trabajo, Confiando En Su Gran Portabilidad y Comodidad", 
+    "imagenes": ["/bolsillo.jpg",
+                 "/bolsillo1.png",
+                 "/bolsillo2.png"
+                 ]
+  },
+  {
+    "id": 10,
+    "nombre": "Cuaderno Italiano Pautado",
+    "categoria": "Libretas",
+    "alias":[
+        "cuaderno italiano",
+        "libreta italiana",
+
+        "cuaderno italiano pautado",
+        "libreta italiana pautada",
+
+        "cuaderno pautado",
+        "libreta pautada",
+        "libreta de pautas",
+        "cuaderno de pautas",
+        "cuaderno con pauta",
+
+        "cuaderno musical",
+        "libreta musical",
+        "cuaderno de música",
+        "libreta de música",
+
+        "cuaderno de partituras",
+        "libreta de partituras",
+        "cuaderno para partituras",
+        "libreta para partituras",
+
+        "cuaderno de pentagrama",
+        "libreta de pentagrama",
+        "cuaderno pentagramado",
+        "libreta pentagramada",
+
+        "cuaderno de solfeo",
+        "libreta de solfeo",
+        "cuaderno para solfeo",
+        "libreta para solfeo",
+
+        "cuaderno composición musical",
+        "libreta composición musical",
+        "cuaderno para composición",
+        "libreta para composición",
+
+        "cuaderno espiral",
+        "libreta espiral",
+        "cuaderno con espiral",
+        "libreta con espiral",
+
+        "cuaderno italiano espiral",
+        "libreta italiana espiral",
+
+        "cuaderno para estudiantes de música",
+        "libreta para estudiantes de música",
+        "cuaderno escolar de música"
+      ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Pautado"
+    ],
+    "descripcion":"Libreta pautada tamaño italiano ideal para estudiantes y profesionales de música. Perfecta para la elaboración de partituras, ejercicios de teoría musical y anotaciones de práctica.",
+    "imagenes": ["/pautada2.png",
+                 "/pautado1.jpg",
+                 "/pautado2.png",
+                 "/pautado3.png",
+                 "/pautado4.png"]
+  },
+  {
+    "id": 11,
+    "nombre": "Libreta Profesional Pautada Scribe",
+    "categoria": "Libretas",
+    "alias":[
+        "scribe",
+        "escribe",
+
+        "libreta scribe",
+        "libreta escribe",
+
+        "libreta profesional",
+        "libreta profesional scribe",
+        "libreta profesional escribe",
+
+        "libreta pautada",
+        "libreta de pautas",
+        "libreta con pauta",
+        "libreta musical",
+        "libreta para música",
+        "libreta de música",
+
+        "cuaderno pautado",
+        "cuaderno de música",
+        "cuaderno musical",
+        "cuaderno para partituras",
+        "cuaderno de partituras",
+
+        "libreta de pentagrama",
+        "libreta pentagramada",
+        "cuaderno pentagramado",
+        "cuaderno de pentagrama",
+
+        "libreta solfeo",
+        "cuaderno solfeo",
+        "libreta para solfeo",
+        "cuaderno para solfeo",
+
+        "libreta composición musical",
+        "libreta para composición",
+        "cuaderno de composición musical",
+
+        "libreta espiral",
+        "libreta con espiral",
+        "libreta profesional espiral",
+
+        "libreta grande",
+        "libreta tamaño profesional",
+        "cuaderno profesional",
+
+        "libreta para clases de música",
+        "libreta para estudiantes de música",
+        "libreta escolar música"
+      ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Pautado"
+    ],
+    "descripcion":"Libreta pautada tamaño profesional diseñada para escritura musical, composición, solfeo y actividades académicas relacionadas con la música. Su formato amplio permite una mejor organización de partituras y anotaciones.",
+    "imagenes": ["/pautadoprof.jpg",
+                  "/pautadoprof1.jpg",
+                  "/pautadoprof2.jpg",
+                  "/pautadoprof3.jpg",
+                  "/pautadoprof4.png"]
+  },
+  {
+    "id": 12,
+    "nombre": "Libreta Para Taquigrafia Larga Estrella",
+    "categoria": "Libretas",
+    "alias":[
+        "estrella",
+        "libreta estrella",
+
+        "libreta para taquigrafia",
+        "libreta taquigrafia",
+        "cuaderno taquigrafia",
+
+        "libreta para taquigrafía larga",
+        "libreta taquigrafía larga",
+        "taquigrafia larga",
+        "taquigrafía larga",
+
+        "libreta larga",
+        "cuaderno largo",
+        "libreta de apuntes larga",
+
+        "libreta espiral",
+        "libreta con espiral",
+        "cuaderno espiral",
+
+        "libreta raya",
+        "libreta de raya",
+        "libreta rayada",
+
+        "libreta para apuntes",
+        "libreta de apuntes",
+        "cuaderno de apuntes",
+
+        "libreta escolar",
+        "libreta para escuela",
+        "libreta para trabajo",
+        "libreta reuniones",
+        "libreta para notas"
+      ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Raya"
+    ],
+    "descripcion":"Libreta de taquigrafía tamaño largo con espiral, ideal para tomar apuntes rápidos, dictados, reuniones, entrevistas y actividades escolares. Su formato permite una escritura cómoda y organizada.",
+    "imagenes": ["/taquigrafia.jpg",
+                 "/taquigrafia1.png",
+                 "/taquigrafia2.jpg"
+                 ]
+  },
+  {
+    "id": 13,
+    "nombre": "Libreta Para Taquigrafia Corta Estrella",
+    "categoria": "Libretas",
+        "alias":[
+        "estrella",
+        "libreta estrella",
+
+        "libreta para taquigrafia",
+        "libreta taquigrafía",
+        "cuaderno taquigrafia",
+
+        "libreta para taquigrafia corta",
+        "libreta taquigrafía corta",
+        "taquigrafia corta",
+        "taquigrafía corta",
+
+        "libreta chica",
+        "libreta pequeña",
+        "libreta compacta",
+        "libreta mini",
+
+        "libreta de bolsillo",
+        "libreta bolsillo",
+        "cuaderno pequeño",
+
+        "libreta espiral",
+        "libreta con espiral",
+        "cuaderno espiral",
+
+        "libreta raya",
+        "libreta de raya",
+        "libreta rayada",
+
+        "libreta para apuntes",
+        "libreta de notas",
+        "libreta recordatorios",
+
+        "libreta escolar",
+        "libreta para escuela",
+        "libreta diaria"
+      ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Raya"
+    ],
+    "descripcion":"Libreta de taquigrafía compacta y práctica, perfecta para notas rápidas, recordatorios, apuntes escolares y uso diario. Fácil de transportar en mochilas, bolsos o portafolios.",
+    "imagenes": ["/taquigrafiacorta.jpg",
+                  "/taquigrafiacorta1.png",
+                  "/taquigrafiacorta2.png"
+                  ]
+  },
+  {
+    "id": 14,
+    "nombre": "Libreta Aguilucho Estrella",
+    "categoria": "Libretas",
+    "alias":[
+        "estrella",
+        "libreta estrella",
+
+        "libreta aguilucho",
+        "cuaderno aguilucho",
+        "aguilucho estrella",
+
+        "libreta de dibujo",
+        "libreta dibujo",
+        "cuaderno de dibujo",
+        "cuaderno dibujo",
+
+        "libreta para dibujar",
+        "cuaderno para dibujar",
+        "libreta artística",
+        "cuaderno artístico",
+
+        "libreta de arte",
+        "cuaderno de arte",
+        "libreta para bocetos",
+        "cuaderno para bocetos",
+
+        "libreta espiral",
+        "libreta con espiral",
+        "cuaderno espiral",
+
+        "hojas para dibujo",
+        "cuaderno para ilustraciones",
+        "libreta creativa",
+
+        "libreta escolar dibujo",
+        "cuaderno escolar dibujo",
+        "libreta para estudiantes"
+      ],
+    "modelo": "Espiral",
+    "tipos": [
+      "Dibujo"
+    ],
+    "descripcion":"Libreta de dibujo con hojas especiales para realizar bocetos, ilustraciones, trabajos artísticos y actividades escolares. Ideal para estudiantes, artistas y personas creativas.",
+    "imagen": ["/agui.jpg"]
+  },
+  {
+    "id": 15,
+    "nombre": "Folder Pastel",
+    "categoria": "Folders",
+    "alias": [
+        "folder",
+        "carpeta",
+
+        "folder carta",
+        "carpeta carta",
+
+        "folder tamaño carta",
+        "carpeta tamaño carta",
+
+        "folder cartulina",
+        "carpeta cartulina",
+
+        "carta",
+        "carta cartulina",
+
+        "folder oficio",
+        "carpeta oficio",
+
+        "folder tamaño oficio",
+        "carpeta tamaño oficio",
+
+        "folder cartulina",
+        "carpeta cartulina",
+
+        "oficio",
+        "oficio cartulina"
+      ],
+    "modelo": "Carta y Oficio",
+    "tipos": [
+      "Beige",
+      "Azul Pastel",
+      "Rosa Pastel",
+      "Verde Pastel",
+      "Amarillo Pastel (Canario)"
+    ],
+    "descripcion":"Folder de cartulina tamaño carta ideal para organizar y proteger documentos escolares, personales y de oficina. Disponible en diversos colores para facilitar la clasificación y almacenamiento de archivos.",
+    "imagenes": ["/folderpastel3.png",
+                 "/folderpastel1.png",
+                 "/folderpastel2.jpg",
+                  "/folderpastel4.jpg",
+                  "/folderpastel5.jpg"]
+  },
+  {
+    "id": 16,
+    "nombre": "Folder Plástico",
+    "categoria": "Folders",
+    "modelo": "Carta y Oficio",
+    "alias": [
+        "folder",
+        "carpeta",
+
+        "folder carta",
+        "carpeta carta",
+
+        "folder plastico",
+        "folder plastica",
+
+        "carpeta plastica",
+        "carpeta plastico",
+
+        "folder carta plastico",
+        "folder carta plastica",
+
+        "carpeta carta plastica",
+        "carpeta carta plastico",
+
+        "folder tamaño carta plastico",
+        "carpeta tamaño carta plastica",
+
+        "carta plastico",
+        "plastico carta",
+
+        "folder oficio plastico",
+        "folder oficio plastica",
+
+        "carpeta oficio plastica",
+        "carpeta oficio plastico",
+
+        "folder tamaño oficio plastico",
+        "carpeta tamaño oficio plastica",
+
+        "oficio plastico",
+        "plastico oficio"
+      ],
+    "tipos": [
+      "Rojo",
+      "Azul",
+      "Amarillo",
+      "Verde"
+    ],
+    "descripcion":"Folder plástico tamaño carta resistente y duradero, diseñado para proteger documentos contra humedad, polvo y dobleces. Ideal para estudiantes, oficinas y uso diario.",
+    "imagenes": ["/plastico.jpg",
+                 "/folderplastico1.jpeg",
+                 "/folderplastico2.jpeg",
+                 "/folderplastico3.jpeg",
+                 "/folderplastico4.jpeg"]
+  },
+  {
+    "id": 17,
+    "nombre": "Folder  Plastico Horizontal",
+    "categoria": "Folders",
+    "modelo": "Carta y Oficio",
+    "alias": [
+          "folder",
+          "carpeta",
+
+          "folder horizontal",
+          "carpeta horizontal",
+
+          "folder plastico",
+          "carpeta plastica",
+
+          "folder carta",
+          "carpeta carta",
+
+          "folder carta horizontal",
+          "carpeta carta horizontal",
+
+          "folder plastico horizontal",
+          "carpeta plastica horizontal",
+
+          "folder tamaño carta horizontal",
+          "carpeta tamaño carta horizontal",
+
+          "horizontal plastico",
+          "plastico horizontal",
+
+          
+          "folder oficio horizontal",
+          "carpeta oficio horizontal",
+
+          "folder oficio plastico",
+          "carpeta oficio plastica",
+
+          "folder oficio plastico horizontal",
+          "carpeta oficio plastica horizontal",
+
+          "oficio horizontal",
+          "horizontal oficio",
+
+          "oficio plastico horizontal"
+        ],
+    "tipos": [
+      "Amarillo",
+      "Verde",
+      "Gris",
+      "Azul",
+      "Transparente"
+    ],
+    "descripcion":"Folder plástico horizontal tamaño carta que permite almacenar documentos de forma cómoda y accesible. Perfecto para mantener archivos organizados y facilitar su consulta frecuente.",
+    "imagenes": ["/horizontal.png",
+                "/folderplasticohorizontal12.png",
+                "/folderplasticohorizontal2.png",
+                "/folderplasticohorizontal3.png",
+                "/folderplasticohorizontal4.png",
+                "/folderplasticohorizontal5.jpeg"]
+  },
+  
+
+  {
+    "id": 21,
+    "nombre": "Folder Con  Costilla",
+    "categoria": "Folders",
+    "modelo": "Carta",
+    "alias": [
+      "folder",
+      "carpeta",
+
+      "folder carta",
+      "carpeta carta",
+
+      "folder costilla",
+      "carpeta costilla",
+
+      "folder con costilla",
+      "carpeta con costilla",
+
+      "folder carta con costilla",
+      "carpeta carta con costilla",
+
+      "folder plastico",
+      "carpeta plastica",
+
+      "folder plastico con costilla",
+      "carpeta plastica con costilla",
+
+      "costilla",
+      "costilla carta"
+    ],
+    "tipos": [
+      "Rojo",
+      "Azul",
+      "Verde",
+      "Amarillo"
+    ],
+    "imagen": ["/costilla.png"],
+    "descripcion":"Folder plástico tamaño carta con costilla  que ofrece mayor capacidad para guardar múltiples documentos. Ideal para proyectos escolares, expedientes, reportes y organización de archivos."
+  },
+  {
+    "id": 22,
+    "nombre": "Pluma Pin Point Fino ",
+    "categoria": "Plumas",
+    "modelo": "Colores",
+   "alias": [
+          "pluma",
+          "boligrafo",
+
+          "pin point",
+          "pinpoint",
+
+          "pluma pin point",
+          "pluma pinpoint",
+
+          "punta fina",
+          "punto fino",
+
+          "pluma fina",
+          "pluma punto fino", 
+
+          "boligrafo fino",
+          "boligrafo punto fino",
+
+          "pin point fino",
+          "pinpoint fino"
+        ],
+    "tipos": [
+      "Negro",
+      "Azul",
+      "Rojo"
+    ],
+    "imagen": ["/pluma.png"],
+    "descripcion":"Pluma de escritura precisa con punta fina, ideal para realizar trazos detallados, trabajos escolares, apuntes organizados y actividades que requieren mayor claridad al escribir."
+  },
+  {
+    "id": 23,
+    "nombre": "Pluma Bic Punto Fino",
+    "categoria": "Plumas",
+    "modelo": "Colores",
+   "alias": [
+        "pluma",
+        "boligrafo",
+
+        "bic",
+
+        "pluma bic",
+        "boligrafo bic",
+
+        "punta fina",
+        "punto fino",
+
+        "pluma fina",
+        "pluma punto fino",
+
+        "bic fina",
+        "bic punto fino",
+
+        "pluma bic fina",
+        "pluma bic punto fino",
+
+        "boligrafo bic fino"
+      ],
+    "tipos": [
+      "Negro",
+      "Azul",
+      "Rojo"
+    ],
+    "imagen": ["/bicfino.png"],
+    "descripcion":"Bolígrafo confiable y práctico para el uso cotidiano. Su punto fino permite una escritura uniforme y limpia, siendo una excelente opción para estudiantes, oficinas y tareas diarias."
+  },
+  {
+    "id": 24,
+    "nombre": "Pluma Bic Punto Medio",
+    "categoria": "Plumas",
+        "alias": [
+        "pluma",
+        "boligrafo",
+
+        "bic",
+
+        "pluma bic",
+        "boligrafo bic",
+
+        "punta media",
+        "punto medio",
+
+        "pluma media",
+        "pluma punto medio",
+
+        "bic media",
+        "bic punto medio",
+
+        "pluma bic media",
+        "pluma bic punto medio",
+
+        "boligrafo bic medio"
+      ],
+    "modelo": "Colores",
+    "tipos": [
+      "Negro",
+      "Azul",
+      "Verde",
+      "Rojo"
+    ],
+    "imagen": ["/bicmedio.png"],
+    "descripcion":"Pluma de tinta suave con punto medio que ofrece trazos más visibles y fluidos. Recomendada para tomar notas extensas, llenar formularios y actividades de escritura frecuente."
+  },
+  {
+    "id": 25,
+    "nombre": "Pluma Kilometrica Punto Fino",
+    "categoria": "Plumas",
+     "alias": [
+          "pluma",
+          "boligrafo",
+
+          "kilometrica",
+          "kilometrico",
+
+          "pluma kilometrica",
+          "boligrafo kilometrico",
+
+          "punta fina",
+          "punto fino",
+
+          "pluma fina",
+          "pluma punto fino",
+
+          "kilometrica fina",
+          "kilometrica punto fino",
+
+          "pluma kilometrica fina",
+          "pluma kilometrica punto fino"
+        ],
+    "modelo": "Colores",
+    "tipos": [
+      "Negro",
+      "Azul",
+      "Rojo"
+    ],
+    "imagen": ["/kilofino.png"],
+    "descripcion":"Instrumento de escritura diseñado para quienes buscan mayor duración y rendimiento. Su punta fina facilita la elaboración de textos legibles, anotaciones y trabajos académicos."
+  },
+  {
+    "id": 26,
+    "nombre": "Pluma Kilometrica Punto Medio",
+    "categoria": "Plumas",
+    "alias": [
+        "pluma",
+        "boligrafo",
+
+        "kilometrica",
+        "kilometrico",
+
+        "pluma kilometrica",
+        "boligrafo kilometrico",
+
+        "punta media",
+        "punto medio",
+
+        "pluma media",
+        "pluma punto medio",
+
+        "kilometrica media",
+        "kilometrica punto medio",
+
+        "pluma kilometrica media",
+        "pluma kilometrica punto medio"
+      ],
+    "modelo": "Colores",
+    "tipos": [
+      "Rosa",
+      "Rojo",
+      "Naranja",
+      "Cafe",
+      "Negro",
+      "Verde Limon",
+      "Verde Bandera",
+      "Azul Cielo",
+      "Azul ",
+      "Morado"
+    ],
+    "imagen": ["/kilomedio.png"],
+    "descripcion":"Pluma disponible en una amplia variedad de colores, perfecta para resaltar información, elaborar apuntes creativos, realizar proyectos escolares y organizar contenido de forma visual."
+  },
+  {
+    "id": 27,
+    "nombre": "Colores Barcoiris",
+   "alias": [
+    "colores",
+    "color",
+    "lapices de color",
+    "colores de madera",
+
+    "barcoiris",
+    "bacoiris",
+    "baco",
+    "colores barcoiris",
+    "colores baco",
+
+    "24 piezas",
+    "24 colores",
+    "colores 24",
+
+    "12 piezas",
+    "12 colores",
+    "colores 12",
+
+    "colores largos",
+    "12 piezas largos",
+    "barcoiris largos",
+
+    "colores triangular",
+    "triangular",
+    "12 piezas triangular",
+    "barcoiris triangular",
+
+    "colores jumbo",
+    "jumbo",
+    "triangular jumbo",
+    "12 piezas triangular jumbo",
+    "barcoiris jumbo",
+
+    "colores cortos",
+    "12 piezas cortos",
+    "barcoiris cortos",
+
+    "colores escolares",
+    "colores para dibujo",
+    "lapices escolares"
+  ],
+
+    "categoria": "Colores",
+    "tipos": [
+      "24 Piezas",
+      "12 Piezas Largos",
+      "12 Piezas Largos Triangular",
+      "12 Piezas Triangular Jumbo",
+      "12 Piezas Cortos"
+    ],
+    "imagenes": ["/largos.png",
+              "/jumbotriangular.jpg",
+              "/triangular.png",
+              "/barcolargo2.jpg",
+             "/barcocortos.png"],
+    "descripcion":"Caja de colores con amplia variedad de tonos para realizar dibujos, proyectos escolares e ilustraciones con mayor riqueza de detalles y combinaciones de color."
+  },
+ 
+  {
+    "id": 28,
+    "nombre": "Colores Smarty",
+    "categoria": "Colores",
+    "alias": [
+          "colores",
+          "colores smarty",
+          "smarty",
+
+          "colores largos",
+          "smarty largos",
+
+          "24 colores",
+          "24 piezas",
+
+          "smarty 24",
+
+        "colores largos",
+        "smarty largos",
+
+        "12 colores",
+        "12 piezas",
+
+        "smarty 12",
+
+        "colores duo",
+        "smarty duo",
+
+        "duo",
+
+        "colores triangular",
+          "smarty triangular",
+
+        "triangular"
+
+
+        ],
+    "tipos": [
+      "24 Piezas",
+      "12 Piezas Largos",
+      "12 Piezas Duo Largos",
+      "12 Piezas Triangular"
+    ],
+    "imagenes":["/smartylargos.jpg",
+               "/largos12.jpg",
+               "/duo.png",
+              "/triangular12.png"],
+    "descripcion":"Colección de colores con una amplia gama cromática para crear trabajos más detallados, degradados y combinaciones que estimulan la creatividad."
+  },  
+  
+  {
+    "id": 29,
+    "nombre": "Colores Mapita",
+    "categoria": "Colores",
+    "alias": [
+          "colores",
+          "colores mapita",
+          "mapita",
+
+          "colores largos",
+          "mapita largos",
+
+          "24 colores",
+          "24 piezas",
+
+          "mapita 24",
+
+          "colores largos",
+          "mapita largos",
+
+          "12 colores",
+          "12 piezas",
+
+          "mapita 12",
+
+          "colores cortos",
+          "mapita cortos",
+
+          "colores chicos",
+          "colores pequeños"
+
+        ],
+    "tipos": [
+      "24 Piezas",
+      "12 Piezas Largos",
+      "12 Piezas Cortos"
+    ],
+    "imagenes": ["/mapitalargos24.png",
+                "/mapitalargos12.png"],
+    "descripcion":"Set de 24 colores pensado para estudiantes y aficionados al dibujo que buscan una mayor diversidad de tonalidades para expresar sus ideas."
+  },
+  
+  {
+    "id": 30,
+    "nombre": "Colores Blanca Nieves",
+    "categoria": "Colores",
+    "alias": [
+          "colores",
+          "colores blanca nieves",
+          "blanca nieves",
+
+          "blancanieves",
+
+          "colores largos",
+
+          "24 colores",
+          "24 piezas",
+
+          "blanca nieves 24",
+
+          "12 colores",
+          "12 piezas",
+
+          "blanca nieves 12",
+
+          "colores cortos",
+
+         "colores chicos",
+        "colores pequeños",
+
+        "blanca nieves 12"
+
+        ],
+    "tipos": [
+      "24 Piezas",
+      "12 Piezas Largos",
+      "12 Piezas Cortos"
+    ],
+    "imagenes": ["/blanca24.png",
+                "/blanca12.png",
+              "/blancacortos.png"],
+    "descripcion":"Caja con gran variedad de colores que favorece la creación de dibujos más expresivos, proyectos escolares y actividades de aprendizaje visual."
+  },
+  
+  {
+    "id": 31,
+    "nombre": "Lapiz Adhesivo",
+    "categoria": "Pegamento",
+          "alias": [
+          "lapiz adhesivo",
+          "pegamento",
+          "pegamento en barra",
+          "barra adhesiva",
+          "barra de pegamento",
+          "resistol",
+          "resistol en barra",
+          "pritt",
+          "pegabarra",
+          "pegamento escolar",
+          "pegamento para papel",
+          "lapiz adhesivo 36 gramos",
+          "pegamento 36 gramos",
+          "barra adhesiva 36 gramos",
+          "lapiz adhesivo",
+          "pegamento",
+          "pegamento en barra",
+          "barra adhesiva",
+          "barra de pegamento",
+          "resistol",
+          "resistol en barra",
+          "pritt",
+          "pegabarra",
+          "pegamento escolar",
+          "lapiz adhesivo 21 gramos",
+          "pegamento 21 gramos",
+          "barra adhesiva 21 gramos",
+          "lapiz adhesivo",
+          "pegamento",
+          "pegamento en barra",
+          "barra adhesiva",
+          "barra de pegamento",
+          "resistol",
+          "resistol en barra",
+          "pritt",
+          "pegabarra",
+          "pegamento escolar",
+          "lapiz adhesivo 8 gramos",
+          "pegamento 8 gramos",
+          "barra adhesiva 8 gramos"
+        ],
+    "tipos": [
+      "36 gramos",
+      "21 gramos",
+      "8 gramos"
+    ],
+    "imagenes": ["/36gramos.png",
+                "/21gramos.png",
+                "/8gramos.png"],
+    "descripcion":"Barras adhesivas de gran capacidad  con sus distintos tamaños ideales para proyectos escolares, manualidades y trabajos de oficina que requieren un uso frecuente. Proporciona una aplicación limpia y uniforme."
+  },
+  
+  {
+    "id": 32,
+    "nombre": "Ojos Movibles",
+    "categoria": "Ojos",
+    "alias": [
+        "ojos movibles",
+        "ojitos movibles",
+        "ojos para manualidades",
+        "ojitos para manualidades",
+        "ojos plasticos",
+        "ojitos plasticos",
+        "ojos decorativos",
+        "ojos para foami",
+        "ojos para muñecos",
+        "ojos para artesanias",
+        "ojitos"
+      ],
+    "tipos": [
+      "22 mm",
+      "18 mm",
+      "15 mm",
+      "12 mm",
+      "10 mm",
+      "8 mm",
+      "7 mm",
+      "6 mm",
+      "3 mm"
+    ],
+      "imagenes": ["/ojos.png",
+                  "/ojos2.jpeg"],
+    "descripcion":"Accesorio decorativo utilizado en manualidades, proyectos escolares, figuras de foami, cartón y diversos trabajos creativos. Disponible en diferentes tamaños."
+  },
+  {
+    "id":33,
+    "nombre": "Pintura Vegetal",
+    "categoria": "Pintura Vegetal",
+    "modelo": "En polvo",
+    "alias": [
+        "pintura vegetal",
+        "colorante vegetal",
+        "pintura en polvo",
+        "colorante en polvo",
+        "pigmento vegetal",
+        "polvo para pintar",
+        "color vegetal",
+        "tinte vegetal",
+        "pintura escolar",
+        "colorante escolar"
+      ],
+    "tipos": [
+      "Cafe",
+      "Azul Marino",
+      "Azul Rey",
+      "Rosa Claro",
+      "Azul Cielo",
+      "Rosa Fiusha",
+      "Rojo",
+      "Morado",
+      "Verde Bandera",
+      "Gris",
+      "Blanco",
+      "Negro",
+      "Lila",
+      "Amarillo",
+      "Verde Limon"
+    ],
+    "imagenes": ["/pinturavegetal.png",
+                "/vegetal1.jpeg",
+                "/vegetal2.jpeg",
+                "/vegetal3.jpeg",
+                "/vegetal4.jpeg",
+                "/vegetal5.jpeg",
+                "/vegetal6.jpeg",
+                "/vegetal7.jpeg",
+                "/vegetal8.jpeg",
+                "/vegetal9.jpeg",
+                "/vegetal10.jpeg",
+                "/vegetal11.jpeg"],
+    "descripcion":"Colorante en polvo ideal para actividades escolares, manualidades, decoración y proyectos creativos. Disponible en una amplia variedad de colores vibrantes."
+  },
+  {
+    "id": 34,
+    "nombre": "Chaquira",
+    "categoria": "Chaquira",
+    "alias": [
+        "chaquira",
+        "chaquiras",
+        "cuentas",
+        "cuentas para pulsera",
+        "cuentas para collar",
+        "abalorios",
+        "mostacillas",
+        "chaquira de colores",
+        "material para pulseras",
+        "material para bisuteria"
+      ],
+    "tipos": [
+      "Azul  Cielo",
+      "Rojo",
+      "Blanco",
+      "Plateado",
+      "Rosa Fiusha",
+      "Amarillo",
+      "Lila",
+      "Verde Bandera",
+      "Naranja",
+      "Morado",
+      "Rosa Claro"
+    ],
+    "imagenes": ["/chaquira.jpg",
+                "/chaquira1.jpeg",
+                "/chaquira2.jpeg",
+                "/xd.jpeg"],
+    "descripcion":"Cuenta decorativa utilizada para la elaboración de pulseras, collares, adornos, artesanías y proyectos creativos. Disponible en diversos colores para múltiples combinaciones."
+  },
+  {
+    "id": 35,
+    "nombre": "Lentejuela",
+    "categoria": "Lentejuela",
+    "modelo": " Grande y Chica",
+    "alias": [
+        "lentejuela",
+        "lentejuelas",
+        "lentejuela grande",
+        "lentejuela chica",
+        "brillos para manualidades",
+        "decoracion brillante",
+        "material para manualidades",
+        "lentejuela de colores",
+        "lentejuela dorada",
+        "lentejuela plateada"
+      ],
+    "tipos": [
+      "Blanco",
+      "Azul Rey",
+      "Rojo",
+      "Multicolor",
+      "Dorado",
+      "Verde Bandera",
+      "Naranja",
+      "Cafe",
+      "Azul Cielo",
+      "Negro",
+      "Rosa Fiusha",
+      "Verde Limon",
+      "PLateado",
+      "Morado",
+      "Rosa Claro",
+      "Azul Turquesa"
+
+    ],
+    "imagenes": ["/Lentejuela.jpeg",
+                  "/lentejuela.png"],
+    "descripcion":"Material brillante para decorar manualidades, disfraces, tarjetas, maquetas y proyectos escolares. Disponible en distintos colores y tamaños para lograr acabados llamativos."
+  },
+  {
+    "id": 36,
+    "nombre": "Diamantina",
+    "categoria": "Diamantina",
+    "alias": [
+        "diamantina",
+        "diamantina escolar",
+        "diamantina para manualidades",
+        "brillantina",
+        "escarcha",
+        "glitter",
+        "brillos",
+        "diamantina de colores",
+        "diamantina dorada",
+        "diamantina plateada"
+      ],
+    "tipos": [
+      "Negro",
+      "Azul Turquesa",
+      "Rosa Fiusha",
+      "Rosa Claro",
+      "Morado",
+      "Dorado",
+      "Negro",
+      "Azul Rey",
+      "Cafe",
+      "Verde Bandera",
+      "Verde Limon",
+      "Blanco",
+      "Rojo",
+      "Naranja",
+      "Plateado"
+
+    ],
+    "imagen": ["/diamantina.png"],
+    "descripcion":"Brillo decorativo ideal para agregar efectos luminosos a trabajos artísticos, invitaciones, manualidades y actividades escolares. Disponible en una gran variedad de tonos."
+  },
+  {
+    "id": 37,
+    "nombre": "Juego de Geometria Smarty Grande y Chico",
+    "categoria": "Juego de Geometria",
+    "alias": [
+        "juego de geometria",
+        "geometria",
+        "juego geometrico",
+        "kit de geometria",
+        "set de geometria",
+        "smarty",
+        "juego de geometria smarty",
+        "juego de geometria grande",
+        "regla",
+        "escuadra",
+        "transportador",
+        "compas",
+        "kit escolar de geometria",
+        "material de geometria",
+        "juego de geometria chico",
+        "geometria chica"
+      ],
+    "modelo": "PLastico Duro",
+    "tipos": [
+      "Regla",
+      "Transportador",
+      "Compas",
+      "Escuadra"
+    ],
+    "imagenes": ["/juegogeometriagrande.png",
+                 "/geometriachico.png"],
+    "descripcion":"Set de herramientas de medición y trazado diseñado para materias de matemáticas, dibujo técnico y geometría. Fabricado en plástico resistente para una mayor durabilidad."
+  },
+  
+  {
+    "id": 38,
+    "nombre": "Juego de Geometria Smarty Grande y Chico",
+    "categoria": "Juego de Geometria",
+    "modelo": "PLastico Flexible",
+    "alias": [
+        "juego de geometria",
+        "geometria",
+        "juego geometrico",
+        "kit de geometria",
+        "set de geometria",
+        "smarty",
+        "juego de geometria smarty",
+        "juego de geometria grande",
+        "geometria flexible",
+        "juego de geometria flexible",
+        "plastico flexible",
+        "regla",
+        "escuadra",
+        "transportador",
+        "compas",
+        "juego de geometria mediano",
+        "juego de geometria chico" 
+      ],
+    "tipos": [
+      "Regla",
+      "Transportador",
+      "Compas",
+      "Escuadra"
+    ],
+    "imagenes": ["/flexible.png",
+                "/flexible2.png"],
+    "descripcion":"Kit de geometría elaborado en material flexible que reduce el riesgo de quiebres y facilita su transporte. Ideal para estudiantes de primaria, secundaria y preparatoria."
+  },
+  
+  {
+    "id": 39,
+    "nombre": "Hoja Para Cartapacio",
+    "categoria": "Hojas",
+    "alias": [
+      "hoja para cartapacio",
+      "hojas para cartapacio",
+      "hoja cartapacio",
+      "cartapacio",
+      "hoja perforada",
+      "hoja de raya",
+      "hoja cuadro grande",
+      "hoja cuadro chico",
+      "repuesto para carpeta",
+      "hoja para carpeta",
+      "hoja escolar"
+    ],
+    "tipos": [
+      "Raya",
+      "Cuadro Grande",
+      "Cuadro Chico"
+    ],
+    "imagenes": ["/hojacarta.png",
+                "/hojascartapacio.png",
+                "/hojascartapacio2.png"],
+    "descripcion": "Hojas diseñadas para utilizarse en carpetas tipo cartapacio. Ideales para tomar apuntes, realizar ejercicios escolares, elaborar reportes o mantener información organizada en una sola carpeta."
+  },
+  {
+    "id": 40,
+    "nombre": "Separador Tamaño Carta",
+    "categoria": "Hojas",
+    "alias": [
+        "separador",
+        "separadores",
+        "separador carta",
+        "separadores carta",
+        "divisor de carpeta",
+        "divisores",
+        "divisores carta",
+        "separador para carpeta",
+        "separador para archivador",
+        "organizador de carpeta"
+      ],
+    "tipos": [
+      "12 separadores",
+      "8 separadores",
+      "5 separadores"
+    ],
+    "imagenes": ["/separador1.jpg",
+                 "/separador.jpeg",
+                 "/separador2.png"],
+    "descripcion": "Accesorio práctico para dividir documentos, materias o proyectos dentro de carpetas y archivadores. Facilita la clasificación y localización rápida de la información."
+  },
+  {
+    "id": 41,
+    "nombre": "Cartulina",
+    "categoria": "Cartulina",
+    "modelo": "Colores Fuertes",
+    "alias": [
+      "cartulina",
+      "cartulina colores fuertes",
+      "cartulina fuerte",
+      "cartulina escolar",
+      "cartulina para carteles",
+      "cartulina para manualidades",
+      "cartulina de colores",
+      "cartulina roja",
+      "cartulina azul",
+      "cartulina amarilla",
+      "cartulina verde",
+      "cartulina negra"
+    ],
+    "tipos": [
+      "Blanco",
+      "Amarillo",
+      "Rojo",
+      "Naranja",
+      "Azul Rey",
+      "Verde Bandera",
+      "Cafe",
+      "Fiusha",
+      "Morado",
+      "Lila",
+      "Negro"
+    ],
+    "imagen": ["/cartulinafuerte.png"],
+    "descripcion": "Cartulina resistente en tonos intensos y llamativos, perfecta para trabajos escolares, carteles, exposiciones, manualidades y proyectos creativos que requieren mayor impacto visual."
+  } ,
+
+   {
+    "id": 42,
+    "nombre": "Cartulina",
+    "categoria": "Cartulina",
+    "modelo": "Colores Fluorescentes",
+    "alias": [
+      "cartulina",
+      "cartulina fluorescente",
+      "cartulina neon",
+      "cartulina fosforescente",
+      "cartulina de colores fluorescentes",
+      "cartulina llamativa",
+      "cartulina escolar",
+      "cartulina para carteles",
+      "cartulina para anuncios",
+      "cartulina para decoracion"
+    ],
+    "tipos": [
+      "Morado",
+      "Amarillo",
+      "Naranja",
+      "Azul",
+      "Rosa Fiusha",
+      "Verde"
+    ],
+    "imagen": ["/cartulinafluo.png"],
+    "descripcion": "Cartulina de colores fluorescentes que destaca por su alta visibilidad. Recomendada para anuncios, señalizaciones, decoraciones, portadas y actividades escolares."
+  } ,
+
+   {
+    "id": 43,
+    "nombre": "Cartulina",
+    "categoria": "Cartulina",
+    "modelo": "Colores Pastel",
+    "alias": [
+        "cartulina",
+        "cartulina pastel",
+        "cartulina colores pastel",
+        "cartulina suave",
+        "cartulina escolar",
+        "cartulina para invitaciones",
+        "cartulina decorativa",
+        "cartulina rosa pastel",
+        "cartulina azul pastel",
+        "cartulina verde pastel",
+        "cartulina amarilla pastel"
+      ],
+    "tipos": [
+      "Amarillo",
+      "Verde",
+      "Azul",
+      "Rosa"
+    ],
+    "imagen": ["/pastel.png"],
+    "descripcion": "Cartulina en tonos suaves y elegantes, ideal para presentaciones, invitaciones, decoraciones, trabajos artísticos y proyectos con acabados delicados."
+  } ,
+
+    {
+    "id": 44,
+    "nombre": "Papel Albanene",
+    "categoria": "Albanene",
+    "alias": [
+      "papel albanene",
+      "albanene",
+      "papel translucido",
+      "papel para calcar",
+      "papel de calca",
+      "papel arquitectonico",
+      "papel para dibujo tecnico",
+      "albanene pliego",
+      "pliego de albanene",
+      "papel transparente"
+    ],
+    "tipos": [
+      "Pliego"
+    ],
+    "imagen": ["/alba1.png"],
+    "descripcion": "Papel translúcido utilizado en dibujo técnico, diseño, arquitectura y manualidades. Permite calcar figuras y realizar trabajos con gran precisión."
+  } ,
+
+  {
+    "id": 45,
+    "nombre": "Papel Albanene",
+    "categoria": "Albanene",
+    "alias": [
+        "papel albanene",
+        "albanene",
+        "papel translucido",
+        "papel para calcar",
+        "papel de calca",
+        "papel arquitectonico",
+        "papel para dibujo tecnico",
+        "albanene carta",
+        "papel albanene carta",
+        "albanene tamaño carta",
+        "papel transparente carta"
+      ],
+    "tipos": [
+      "Tamaño Carta"
+    ],
+    "imagen": ["/alba2.jpeg"],
+    "descripcion": "Versión tamaño carta del papel albanene, práctica para impresiones, calcas, bocetos y proyectos escolares que requieren transparencia parcial."
+  } ,
+
+    {
+      "id": 46,
+      "nombre": "Tabla Periodica",
+      "categoria": "Periodica",
+      "alias": [
+        "tabla periodica",
+        "periodica",
+        "tabla de los elementos",
+        "elementos quimicos",
+        "quimica",
+        "tabla quimica",
+        "tabla periodica grande",
+        "tabla periodica chica"
+      ],
+      "tipos": [
+        "Grande",
+        "Chica"
+      ],
+      "imagen": ["/tablaperiodica.jpg"],
+      "descripcion": "Material de consulta indispensable para estudiantes y docentes de química. Contiene la información básica de los elementos químicos organizada de forma clara."
+    }, 
+    
+     {
+      "id": 47,
+      "nombre": "Tabla Fibracel",
+      "categoria": "Fibracel",
+      "alias": [
+          "tabla fibracel",
+          "fibracel",
+          "tabla",
+          "base fibracel",
+          "tabla carta",
+          "fibracel carta",
+          "tabla para trabajos",
+          "tabla para manualidades"
+        ],
+      "tipos": [
+        "Tamaño carta"
+      ],
+      "imagen": ["/fibra.png"],
+      "descripcion": "Base rígida y ligera utilizada para soportar hojas, dibujos, fotografías o trabajos escolares. También es útil para actividades de corte y montaje."
+     },
+
+      {
+        "id": 48,
+        "nombre": "Acetato",
+        "categoria": "Acetato",
+        "alias": [
+              "acetato",
+              "hoja acetato",
+              "acetato carta",
+              "mica transparente",
+              "lamina transparente",
+              "hoja transparente",
+              "acetato transparente",
+              "acetato tamaño carta"
+            ],
+        "tipos": [
+          "Tamaño Carta"
+        ],
+        "imagen": ["/acetato2.png"],
+        "descripcion": "Lámina transparente ideal para impresiones, presentaciones, proyectos escolares, protección de documentos y elaboración de materiales didácticos."
+      },
+
+        {
+          "id": 49,
+          "nombre": "Etiqueta",
+          "categoria": "Etiqueta",
+          "alias": [
+              "etiqueta",
+              "etiqueta cd",
+              "etiqueta para cd",
+              "sticker para cd",
+              "adhesivo para cd",
+              "etiqueta disco",
+              "etiqueta dvd"
+            ],
+          "tipos": [
+            "Para CD"
+          ],
+          "imagen": ["/CD2.jpeg"],
+          "descripcion": "Etiqueta autoadherible diseñada para identificar discos compactos de forma ordenada y profesional, facilitando su clasificación y almacenamiento."
+        },
+
+          {
+            "id": 50,
+            "nombre": "Etiqueta Hoja Completa",
+            "categoria": "Etiqueta",
+            "alias": [
+                "etiqueta",
+                "etiqueta carta",
+                "hoja etiqueta",
+                "etiqueta hoja completa",
+                "papel adhesivo",
+                "hoja adhesiva",
+                "sticker carta",
+                "etiqueta tamaño carta"
+              ],
+            "tipos": [
+              "Tamaño Carta"
+            ],
+            "imagen": ["/etiqueta.jpg"],
+            "descripcion": "Hoja adhesiva de superficie completa que puede cortarse o imprimirse según las necesidades del usuario para rotulación, señalización o personalización."
+          },
+  
+          {
+            "id": 51,
+            "nombre": "Papel Cebolla",
+            "categoria": "Cebolla",
+            "alias": [
+                "papel cebolla",
+                "cebolla",
+                "papel translucido",
+                "papel semitransparente",
+                "papel para invitaciones",
+                "papel decorativo",
+                "cebolla carta",
+                "papel cebolla carta"
+              ],
+            "tipos": [
+              "Tamaño Carta"
+            ],
+            "imagen": ["/cebolla.png"],
+            "descripcion": "Papel ligero y semitransparente ampliamente utilizado en dibujo, impresión, invitaciones, trabajos artísticos y proyectos de diseño."
+          },
+
+            {
+              "id": 52,
+              "nombre": "Protector De Hojas",
+              "categoria": "Protector",
+              "alias": [
+                    "protector de hojas",
+                    "protector",
+                    "micas",
+                    "mica",
+                    "funda para hojas",
+                    "funda transparente",
+                    "protector carta",
+                    "mica carta",
+                    "protector para carpeta",
+                    "hojas protectoras"
+                  ],
+              "tipos": [
+                "Tamaño Carta",
+                "Paquete 100 piezas",
+                "Paquete 50 piezas",
+                "Sueltas"
+              ],
+              "imagen": ["/protector.jpeg"],
+              "descripcion": "Fundas transparentes que protegen documentos contra polvo, humedad y desgaste. Perfectas para conservar apuntes, reportes y archivos importantes."
+            },
+
+              {
+                "id": 53,
+                "nombre": "Papel Para Fotografia",
+                "categoria": "Fotografia",
+                "alias": [
+                    "papel fotografico",
+                    "papel para fotografia",
+                    "hoja fotografica",
+                    "papel brillante",
+                    "papel glossy",
+                    "papel foto",
+                    "fotografia carta",
+                    "papel fotografico carta"
+                  ],
+                "tipos": [
+                  "Tamaño Carta"
+                ],
+                "imagen": ["/fotografia.jpeg"],
+                "descripcion": "Papel especializado para impresión de imágenes con excelente definición y colores más vivos. Ideal para fotografías, recuerdos y trabajos gráficos."
+              },
+
+        {
+              "id": 54,
+              "nombre": "Papel Carbon",
+              "categoria": "Carbon",
+              "modelo": "Tamaño Carta",
+              "alias": [
+                  "papel carbon",
+                  "carbon",
+                  "papel copia",
+                  "papel para calcar",
+                  "papel transfer",
+                  "carbon azul",
+                  "carbon negro",
+                  "papel carbon carta"
+                ],
+              "tipos": [
+               "Azul",
+              "Negro"
+                       ],
+              "imagen": ["/pelikan.jpg"],
+              "descripcion": "Papel utilizado para transferir textos o dibujos a otra superficie mediante presión. Muy útil en formularios, copias manuales y trabajos de trazado."
+              },
+                
+              {
+              "id": 55,
+              "nombre": "Opalina Delgada",
+              "categoria": "Opalina",
+              "alias": [
+                    "opalina",
+                    "opalina delgada",
+                    "papel opalina",
+                    "opalina carta",
+                    "papel para invitaciones",
+                    "papel para diplomas",
+                    "cartulina opalina",
+                    "opalina tamaño carta"
+                  ],
+              "tipos": [
+                "Tamaño Carta"
+              ],
+              "imagen": ["/opalina2.png"],
+              "descripcion": "Papel de acabado fino y elegante recomendado para invitaciones, reconocimientos, tarjetas, diplomas y documentos con presentación profesional."
+               },
+               
+                {
+                "id": 56,
+                "nombre": "Paquete De Grapas Standard",
+                "alias": [
+                      "grapas",
+                      "grapa",
+                      "grapas standard",
+                      "grapas estandar",
+                      "grapas para engrapadora",
+                      "repuesto de grapas",
+                      "caja de grapas",
+                      "grapas 5000"
+                    ],
+                "categoria": "Grapas",
+                "tipos": [
+                  "5000 piezas"
+                ],
+                "imagen": ["/grapas.jpg"],
+                "descripcion": "Grapas metálicas compatibles con la mayoría de las engrapadoras estándar. Adecuadas para sujetar documentos de forma rápida y segura."
+                },
+                {
+                "id": 57,
+                "nombre": "Abaco Grande y Chico",
+                "categoria": "Abaco",
+                "modelo": "Plastico",
+                "alias": [
+                      "abaco",
+                      "abaco escolar",
+                      "abaco plastico",
+                      "contador matematico",
+                      "material didactico",
+                      "material de matematicas",
+                      "abaco grande",
+                      "abaco chico"
+                    ],
+                "tipos": [
+                  "Azul",
+                  "Rojo",
+                  "Verde",
+                  "Naranja",
+                  "Rosa"
+                ],
+                "imagenes": ["/abaco.png",
+                            "/abacochico.png"],
+                "descripcion": "Herramienta educativa utilizada para el aprendizaje de operaciones matemáticas básicas, fortaleciendo habilidades de cálculo y razonamiento numérico."
+                },
+
+                  {
+                "id": 58,
+                "nombre": "Flauta Smarty",
+                "categoria": "Flauta",
+                "alias": [
+                    "flauta",
+                    "flauta smarty",
+                    "flauta escolar",
+                    "flauta dulce",
+                    "instrumento musical",
+                    "flauta plastica",
+                    "flauta beige"
+                  ],
+                "modelo": "Plastico",
+                "tipos": [
+                  "Beige"
+                ],
+                "imagen": ["/flauta.png"],
+                "descripcion": "Instrumento musical escolar ideal para prácticas de educación artística y aprendizaje de conceptos básicos de música."
+                  },
+                  {
+                "id": 59,
+                "nombre": "Flauta Plastica",
+                "categoria": "Flauta",
+                "modelo": "Plastico Transparente",
+                "alias": [
+                    "flauta",
+                    "flauta plastica",
+                    "flauta transparente",
+                    "flauta escolar",
+                    "flauta dulce",
+                    "instrumento musical",
+                    "flauta de colores"
+                  ],
+                "tipos": [
+                  "Verde",
+                  "Rosa",
+                  "Amarillo",
+                  "Azul"
+                ],
+                "imagenes": [
+                            "/flautaazul.png",
+                            "/flautaverde.png",
+                            "/flautarosa.png",
+                            "/flautaverdebajo2.png"],
+                "descripcion": "Flauta de diseño colorido y transparente que facilita las actividades musicales en el aula, permitiendo desarrollar coordinación y sentido rítmico."
+                  },
+                  {
+                "id": 60,
+                "nombre": "Foamy Tamaño Carta",
+                "categoria": "Foamy",
+                "modelo": "Sin Diamiantina",
+                "alias": [
+                      "foamy",
+                      "foami",
+                      "goma eva",
+                      "foamy carta",
+                      "foami carta",
+                      "foamy sin diamantina",
+                      "foami sin diamantina",
+                      "foamy liso",
+                      "material para manualidades",
+                      "foamy tamaño carta",
+                      "fomi",
+                      "fomy",
+                      "fomi carta",
+                      "fomy carta",
+                      "fomi tamaño carta",
+                      "fomi sin diamantina",
+                      "fomy sin diamantina"
+                    ],
+                "tipos": [
+                  "Morado",
+                  "Azul Rey",
+                  "Rojo",
+                  "Naranja",
+                  "Lila",
+                  "Gris",
+                  "Cafe",
+                  "Amarillo",
+                  "Rosa",
+                  "Vino",
+                  "Fiusha",
+                  "Carne",
+                  "Blanco",
+                  "Negro",
+                  "Azul Cielo",
+                  "Verde Menta",
+                  "Verde Bandera",
+                  "Verde Limon"
+                ],
+                "imagen": ["/foami.png"],
+                "descripcion": "Material flexible y fácil de manipular utilizado en manualidades, decoraciones, proyectos escolares, figuras tridimensionales y trabajos creativos."
+                  },
+
+                  {
+                    "id": 61,
+                    "nombre": "Foamy Tamaño Carta",
+                    "categoria": "Foamy",
+                    "modelo": "Diamiantado",
+                    "alias": [
+                    "foamy",
+                    "foami",
+                    "goma eva",
+                    "foamy carta",
+                    "foami carta",
+                    "foamy diamantado",
+                    "foami diamantado",
+                    "foamy con diamantina",
+                    "foami con diamantina",
+                    "foamy brillante",
+                    "foamy tamaño carta",
+                     "fomi",
+                     "fomy",
+                      "fomi carta",
+                      "fomy carta",
+                      "fomi tamaño carta",
+                      "fomi con diamantina",
+                      "fomy con diamantina",
+                      "fomi diamantado"
+                  ],
+                    "tipos": [
+                      "Morado",
+                      "Azul Rey",
+                      "Rojo",
+                      "Naranja",
+                      "Lila",
+                      "Plata",
+                      "Cafe",
+                      "Dorado",
+                      "Rosa",
+                      "Vino",
+                      "Fiusha",
+                      "Carne",
+                      "Blanco",
+                      "Negro",
+                      "Azul Cielo",
+                      "Verde Menta",
+                      "Verde Bandera",
+                      "Verde Limon"
+                    ],
+                    "imagen": ["/diamantado.png"],
+                    "descripcion":"Foamy con acabado brillante y efecto diamantado que aporta mayor vistosidad a decoraciones, manualidades, disfraces, adornos y proyectos escolares creativos."
+                  },
+                  {
+                "id": 62,
+                "nombre": "Pliego De Foamy",
+                "categoria": "Foamy",
+                "modelo": "Sin Diamiantina",
+                "alias": [
+                "foamy",
+                "foami",
+                "goma eva",
+                "pliego de foamy",
+                "pliego de foami",
+                "foamy grande",
+                "foami grande",
+                "foamy sin diamantina",
+                "foami sin diamantina",
+                "pliego fomy",
+                "pliego fami",
+                "pliego de fomy",
+                "pliego de fomi",
+                "fomy grande",
+                "fomi grande",
+                "fomy sin diamantina",
+                "fomi sin diamantina",
+                "pliego fomy",
+                "pliego fomi"
+              ],
+                "tipos": [
+                  "Morado",
+                  "Azul Rey",
+                  "Rojo",
+                  "Naranja",
+                  "Lila",
+                  "Gris",
+                  "Cafe",
+                  "Amarillo",
+                  "Rosa",
+                  "Vino",
+                  "Fiusha",
+                  "Carne",
+                  "Blanco",
+                  "Negro",
+                  "Azul Cielo",
+                  "Verde Menta",
+                  "Verde Bandera",
+                  "Verde Limon"
+                ],
+                "imagen":["/pliego.png"],
+                "descripcion":"Lámina de foamy de gran tamaño que permite elaborar figuras, letras, maquetas, carteles y trabajos manuales con mayor superficie de trabajo."
+              },
+
+              {
+                "id": 63,
+                "nombre": "Pliego De Foamy",
+                "categoria": "Foamy",
+                "modelo": "Diamiantado",
+                "alias": [
+              "foamy",
+              "foami",
+              "goma eva",
+              "pliego de foamy",
+              "pliego de foami",
+              "foamy diamantado",
+              "foami diamantado",
+              "foamy con diamantina",
+              "foami con diamantina",
+              "pliego diamantado",
+              "foamy brillante",
+               "pliego fomy",
+                "pliego fami",
+                "pliego de fomy",
+                "pliego de fomi",
+                "fomy grande",
+                "fomi grande",
+                "fomy con diamantina",
+                "fomi con diamantina",
+                "pliego fomy",
+                "pliego fomi",
+                 "goma eva",
+              "pliego de fomy",
+              "pliego de fomi",
+              "fomy diamantado",
+              "fomi diamantado"
+            ],
+                "tipos": [
+                  "Morado",
+                  "Azul Rey",
+                  "Rojo",
+                  "Naranja",
+                  "Lila",
+                  "Plata",
+                  "Cafe",
+                  "Dorado",
+                  "Rosa",
+                  "Vino",
+                  "Fiusha",
+                  "Carne",
+                  "Blanco",
+                  "Negro",
+                  "Azul Cielo",
+                  "Verde Menta",
+                  "Verde Bandera",
+                  "Verde Limon"
+                ],
+                "imagenes": ["/pliego2.png",
+                            "/fomidiamantadogris.png",
+                            "/fomidiamantadomorado.png",
+                            "/fomidiamantadoazul.png"
+                            ],
+                "descripcion":"Material decorativo de amplio formato con acabado brillante, ideal para elaborar fondos, escenarios, adornos temáticos y proyectos que buscan destacar visualmente."
+              },
+  
+              {
+                "id": 64,
+                "nombre": "Mapas Blanco y Negro",
+                "categoria": "Mapas",
+                "alias": [
+              "mapa",
+              "mapas",
+              "mapa mexico",
+              "mapa escolar",
+              "mapa blanco y negro",
+              "mapa con nombres",
+              "mapa sin nombres",
+              "division politica",
+              "mapa para colorear",
+              "mapa geografia"
+            ],
+                "tipos": [
+                  "Con Nombres y Divison Politica",
+                  "Sin Nombres Con Division Politica",
+                  "Sin Nombres Sin Division Politica"
+                ],
+                "imagenes": ["/mapas.png",
+                            "/mapamundi.jpg",
+                            "/planisferii.jpg"],
+                "descripcion":"Mapas educativos utilizados en actividades escolares de geografía, ubicación territorial, coloreado, identificación de estados y aprendizaje de divisiones políticas. Contando diferentes paises y continentes"
+              }, 
+
+                {
+                    "id": 65,
+                    "nombre": "Palos De Madera",
+                    "categoria": "Palos",
+                    "alias": [
+                  "palos de madera",
+                  "palitos de madera",
+                  "palos",
+                  "palitos",
+                  "abatelenguas",
+                  "abatelengua",
+                  "brocheta",
+                  "brochetas",
+                  "cuchara de madera",
+                  "madera para manualidades",
+                  "palos para maqueta"
+                ],
+                    "tipos": [
+                      "1 metro",
+                      "80 cm",
+                      "60 cm",
+                      "60 cm Grueso",
+                      "45 cm",
+                      "30 cm",
+                      "30 cm Brocheta Delgada",
+                      "20 cm",
+                      "18 cm Brocheta",
+                      "15 cm",
+                      "Cuadrado o Redondo",
+                      "Abatelengua Grande",
+                      "Abatelengua Chico",
+                      "Cuchara De Madera"
+                    ],
+                    "imagenes": ["/lengua.png",
+                                  "/palomadera.png",
+                                "/palomaderacuadro.png",
+                                "/abatelengua.png",
+                                "/palomadera2.png"],
+                    "descripcion":"Variedad de piezas de madera utilizadas para construcción de maquetas, estructuras, experimentos, manualidades, decoración y proyectos escolares."
+                },
+                {
+                  "id": 66,
+                  "nombre": " Barra De Silicon",
+                  "categoria": "Silicon",
+                  "modelo": "De Barra",
+                  "alias": [
+                  "silicon",
+                  "silicon barra",
+                  "barra de silicon",
+                  "silicona",
+                  "silicona en barra",
+                  "barra silicona",
+                  "silicon grueso",
+                  "silicon delgado",
+                  "pegamento silicon",
+                  "barra para pistola"
+                ],
+                  "tipos": [
+                    "Gruesa",
+                    "Delgada"
+                  ],
+                  "imagen": ["/barra.png"],
+                  "descripcion":"Adhesivo sólido para pistola de silicón que proporciona una fijación rápida en materiales como cartón, tela, madera, plástico, foamy y otros elementos decorativos."
+                },
+
+                {
+                  "id": 67  ,
+                  "nombre": "Silicon Liquido",
+                  "categoria": "Silicon",
+                  "modelo": "Liquido",
+                  "alias": [
+                  "silicon",
+                  "silicon liquido",
+                  "silicona liquida",
+                  "pegamento silicon",
+                  "pegamento liquido",
+                  "silicon transparente",
+                  "silicona",
+                  "resistol silicon",
+                  "silicon 35 gramos",
+                  "silicon 60 gramos"
+                ],
+                  "tipos": [
+                    "35 Gramos",
+                    "60 Gramos",
+                    "100 Gramos",
+                    "250 Gramos"
+                  ],
+                  "imagenes": ["/silicon30g.png",
+                              "/silicon60g.png",
+                              "/liquido.png",
+                              "/silicon250g.png"],
+                  "descripcion":"Pegamento transparente de fácil aplicación, recomendado para trabajos manuales, reparaciones ligeras y unión de diversos materiales de forma práctica."
+                },
+
+                {
+                  "id": 68,
+                  "nombre": "Sobre Blanco y De Color",
+                  "categoria": "Sobre",
+                  "alias": [
+                  "sobre",
+                  "sobres",
+                  "sobre blanco",
+                  "sobre color",
+                  "sobre de color",
+                  "sobre de colores",
+                  "sobre mini",
+                  "sobre carta",
+                  "sobre oficio",
+                  "sobre para documentos",
+                  "sobre para cartas"
+                ],
+                  "tipos": [
+                    "Mini",
+                    "Carta",
+                    "Oficio",
+                    "Colores"
+                  ],
+                  "imagenes": ["/sobres.png",
+                              "/sobreblanco.png"],
+                  "descripcion":"Sobres disponibles en diferentes tamaños y colores para entregar documentos, invitaciones, cartas, fotografías o materiales de presentación."
+                },
+
+                {
+                  "id": 69,
+                  "nombre": "Clips",
+                  "categoria": "Clips",
+                  "alias": [
+                  "clip",
+                  "clips",
+                  "clip mariposa",
+                  "mariposa",
+                  "broche",
+                  "broche sujeta papel",
+                  "sujeta papel",
+                  "clip jumbo",
+                  "clip numero 1",
+                  "clip numero 2",
+                  "binder clip"
+                ],
+                  "tipos": [
+                    "Suelto",
+                    "Numero 1",
+                    "Numero 2",
+                    "Jumbo",
+                    "Mariposa Numero 1 ",
+                    "Mariposa Numero 2",
+                    "Broche Sujeta Papel 51mm",
+                    "Broche Sujeta Papel 41mm",
+                    "Broche Sujeta Papel 32mm",
+                    "Broche Sujeta Papel 25mm",
+                    "Broche Sujeta Papel 19mm"
+
+                  ],
+                  "imagenes": ["/clip3.png",
+                                  "/clipmariposa.png",
+                                "/clipmariposa3.png"],
+                  "descripcion":"Artículos de sujeción diseñados para mantener hojas y documentos organizados sin necesidad de perforarlos, facilitando su almacenamiento y manejo."
+                },
+
+                {
+                  "id": 70,
+                  "nombre": "Crayola Smarty",
+                  "categoria": "Crayola",
+                  "alias": [
+                  "crayola",
+                  "crayolas",
+                  "crayola smarty",
+                  "crayolas smarty",
+                  "colores de cera",
+                  "cera para colorear",
+                  "ceras",
+                  "crayolas delgadas",
+                  "crayola delgada",
+                  "caja de crayolas",
+                  "24 crayolas",
+                  "12 crayolas",
+                  "12 piezas",
+                  "24 piezas",
+                  "crayolas de 24 piezas",
+                  "crayolas 24 piezas",
+                  "crayola smarty 24 piezas"
+                ],
+                  "tipos": [
+                    "24 Piezas",
+                    "12 piezas",
+                    "6 piezas"
+                  ],
+                  "imagenes": ["/crayola1.png",
+                            "/crayola2.png",
+                            "/crayola3.png"],
+                  "descripcion":"Cajas con amplia variedad de colores que permite desarrollar actividades de dibujo, coloreado, ilustración y expresión artística con mayor diversidad de tonos."
+                },
+
+
+
+{
+  "id": 71,
+  "nombre": "Crayola Jumbo Smarty",
+  "categoria": "Crayola",
+  "alias": [
+  "crayola",
+  "crayolas",
+  "crayola smarty",
+  "crayolas smarty",
+  "crayola gruesa",
+  "crayolas gruesas",
+  "crayola jumbo",
+  "ceras",
+  "24 crayolas",
+  "caja de crayolas"
+],
+  "tipos": [
+    "24 Piezas Triangular",
+    "24 Piezas Jumbo Triangular",
+    "12 Piezas Jumbo",
+    "6 Piezas Jumbo"
+  ],
+  "imagenes": ["/crayola4.png",
+            "/crayola7.png",
+            "/crayola5.png",
+            "/crayola6.png"],
+  "descripcion":"Set de crayolas de cuerpo grueso diseñado para facilitar el agarre y ofrecer una amplia gama de colores para actividades artísticas, escolares y recreativas."
+},
+
+
+{
+  "id": 72,
+  "nombre": "Crayola Estandar",
+  "categoria": "Crayola",
+  "alias": [
+  "crayola",
+  "crayolas",
+  "crayola estandar",
+  "crayolas estandar",
+  "colores de cera",
+  "ceras",
+  "12 crayolas",
+  "caja de crayolas"
+],
+  "tipos": [
+    "12 Piezas",
+    "12 Piezas Jumbo"
+  ],
+  "imagenes": ["/crayola8.png",
+              "/crayola9.png"],
+  "descripcion":"Crayolas de tamaño tradicional recomendadas para actividades escolares, tareas y proyectos de arte que requieren colores vivos y uniformes."
+},
+
+
+
+{
+  "id": 73,
+  "nombre": "Sacapuntas ",
+  "categoria": "Sacapuntas",
+  "modelo": "Plastico y Metal",
+  "alias": [
+  "sacapuntas",
+  "saca puntas",
+  "afilador",
+  "afilalapiz",
+  "afilador de lapiz",
+  "sacapuntas plastico",
+  "sacapuntas metalico",
+  "sacapuntas con deposito",
+  "sacapuntas doble"
+],
+  "tipos": [
+    "Plastico Sencillo",
+    " Plastico Con Deposito",
+    "Metalico Sencillo",
+    "Metalico Doble"
+  ],
+  "imagenes": ["/sacapuntas.png",
+            "/sacapuntasdeposito.png"],
+  "descripcion":"Herramienta indispensable para mantener lápices y colores en óptimas condiciones, disponible en distintos materiales y presentaciones según la necesidad."
+},
+
+{
+  "id": 74,
+  "nombre": "Corrector",
+  "categoria": "Corrector",
+  "alias": [
+  "corrector",
+  "liquid paper",
+  "liquidpaper",
+  "corrector de pluma",
+  "corrector en cinta",
+  "cinta correctora",
+  "corrector brocha",
+  "corrector escolar",
+  "corrector oficina"
+],
+  "tipos": [
+    "Pluma Chico",
+    "Pluma Grande",
+    "Cinta ",
+    "Brocha"
+  ],
+  "imagenes": [ "/correctorplumachico.png",
+               "/correctorplumagrande.png", 
+              "/correctorcinta.png",  
+               "/corrector.png"
+              ],
+  "descripcion":"Artículo de oficina y escolar utilizado para cubrir errores de escritura de forma rápida y limpia, permitiendo realizar correcciones precisas."
+},
+
+{
+  "id": 75,
+  "nombre": "Marca Textos",
+  "categoria": "Marca Texto",
+  "alias": [
+  "marca textos",
+  "marcatextos",
+  "resaltador",
+  "resaltatexto",
+  "marcador fluorescente",
+  "highlighter",
+  "marca texto amarillo",
+  "marca texto rosa",
+  "marca texto verde"
+],
+  "modelo": "Grueso Y Delgado",
+  "tipos": [
+    "Rosa",
+    "Verde",
+    "Amarillo",
+    "Azul",
+    "Naranja"
+  ],
+  "imagenes": ["/texto.png",
+                "/marcatextos.png"],
+  "descripcion":"Marcador fluorescente diseñado para resaltar información importante en apuntes, libros, documentos y materiales de estudio."
+},
+
+{
+  "id": 76,
+  "nombre": "Regla",
+  "categoria": "Regla",
+  "alias": [
+  "regla",
+  "regla plastica",
+  "regla metalica",
+  "regla madera",
+  "escalimetro",
+  "instrumento de medicion",
+  "regla escolar",
+  "regla para dibujo"
+],
+  "tipos": [
+    "Plastico",
+    "Metal",
+    "Madera",
+    "Escalimetro"
+  ],
+  "imagenes": ["/reglaplastico.png",
+                "/reglametal.png",
+              "/reglamadera.png",
+              "/reglaescalimetro.png"],
+  "descripcion":"Instrumento de medición útil para dibujo técnico, geometría, trazado de líneas rectas y actividades escolares o profesionales."
+},
+
+{
+  "id": 77,
+  "nombre": "Lapiz",
+  "categoria": "Lapiz",
+  "alias": [
+  "lapiz",
+  "lapices",
+  "lapiz escolar",
+  "lapiz grafito",
+  "ticonderoga",
+  "mirado",
+  "evolution",
+  "sabonis",
+  "lapiz rojo",
+  "lapiz triangular",
+  "entrenador"
+],
+  "tipos": [
+    "Metrico",
+    "Mirado",
+    "Ticonderoga",
+    "Evolution",
+    "Ticonderoga Triangular",
+    "Sabonis",
+    "Duo",
+    "Rojo"
+  ],
+  "imagenes": ["/lapiz.png",
+              "/lapizmirado.png",
+              "/lapizticonderoga.png",
+              "/lapizevolution.png",
+              "/lapiztriangular.png",
+              "/lapizsabonis.png",
+              "/lapizduo.png",
+              "/lapizrojo.png"],
+  "descripcion":"Elemento básico de escritura y dibujo disponible en diversas presentaciones para adaptarse a tareas escolares, técnicas o artísticas."
+},
+
+{
+  "id": 78,
+  "nombre": "Lapiz De Dibujo",
+  "categoria": "Lapiz",
+  "alias": [
+  "lapiz dibujo",
+  "lapiz de dibujo",
+  "lapices dibujo",
+  "lapiz artistico",
+  "lapiz grafito",
+  "lapiz hb",
+  "lapiz 2b",
+  "lapiz 4b",
+  "lapiz h",
+  "lapiz para boceto"
+],
+  "tipos": [
+    "H",
+    "2H",
+    "3H",
+    "4H",
+    "5H",
+    "6H",
+    "HB",
+    "B",
+    "2B",
+    "3B",
+    "4B",
+    "5B",
+    "6B"
+  ],
+  "imagenes": ["/lapizh.png",
+              "/lapiz2h.png",
+              "/lapiz3h.png",
+              "/lapiz4h.png",
+              "/lapiz5h.png",
+              "/lapiz6h.png",
+              "/lapizhb.png",
+              "/lapizb.png",
+              "/lapiz2b.png",
+              "/lapiz3b.png",
+              "/lapiz4b.png",
+              "/lapiz5b.png",
+              "/lapiz6b.png"],
+  "descripcion":"Lápices especializados para bocetado e ilustración, con distintas graduaciones que permiten crear desde líneas suaves hasta sombras profundas."
+},
+
+{
+  "id": 79,
+  "nombre": "Tijeras",
+  "categoria": "Tijeras",
+  "alias": [
+  "tijeras",
+  "tijera",
+  "tijeras escolares",
+  "tijeras punta redonda",
+  "tijeras para niños",
+  "tijeras escolares seguras",
+  "tijeras manualidades",
+  "tijeras de papel"
+],
+  "tipos": [
+    "Punta Redonda"
+  ],
+  "imagenes": ["/tijeras.png",
+              "/tijeras2.png"],
+  "descripcion":"Tijeras con punta redonda diseñadas para brindar mayor seguridad durante actividades escolares, manualidades y trabajos de recorte."
+}
+,
+
+{
+  "id": 80,
+  "nombre": "Cutter",
+  "categoria": "Cutter",
+  "alias": [
+    "cutter",
+    "navaja",
+    "cutter y navaja",
+    "cutter escolar",
+    "cutter para manualidades",
+    "cutter delgado",
+    "cutter grueso",
+    "navaja de corte",
+    "navaja para manualidades",
+    "cutter para maquetas",
+    "exacto cutter",
+    "cuter",
+    "cuter navaja"
+  ],
+  "tipos": [
+    "Cutter Delgado",
+    "Cutter Gureso",
+    "Navaja De 1 filo",
+    "Navaja De Repuesto Grande"
+  ],
+  "imagenes": ["/cutterchico.png",
+              "/cutter.png",
+              "/navajafilo.png",
+              "/navajarepuesto.png"],
+  "descripcion":"Herramienta de corte utilizada para trabajos escolares, manualidades, maquetas y proyectos que requieren precisión al recortar diversos materiales."
+},
+
+{
+  "id": 81,
+  "nombre": "Pegamento Liquido Economico",
+  "categoria": "Pegamento",
+  "alias": [
+    "pegamento",
+    "pegamento liquido",
+    "pegamento líquido",
+    "resistol",
+    "resistol liquido",
+    "cola blanca",
+    "cola escolar",
+    "pegamento escolar",
+    "pegamento económico",
+    "pegamento para papel",
+    "pegamento para cartulina",
+    "pegamento para tareas"
+  ],
+  "tipos": [
+    "25 Gramos",
+    "60 Gramos",
+    "125 Gramos",
+    "250 Gramos",
+    "1/2 Litro",
+    "1 Litro"
+  ],
+  "imagen": ["/liquido2.png"],
+  "descripcion":"Adhesivo escolar de uso general ideal para unir papel, cartulina, fotografías y materiales ligeros en actividades académicas y creativas."
+},
+
+{
+  "id": 82,
+  "nombre": "Pegamento Liquido Bully",
+  "categoria": "Pegamento",
+  "alias": [
+    "pegamento bully",
+    "bully",
+    "pegamento liquido bully",
+    "pegamento líquido bully",
+    "resistol bully",
+    "cola blanca bully",
+    "pegamento escolar bully",
+    "pegamento para tareas bully"
+  ],
+  "tipos": [
+    "35 Gramos",
+    "55 Gramos",
+    "110 Gramos",
+    "225 Gramos"
+  ],
+  "imagenes": ["/bully.png",
+               "/bully55.png",
+                "/bully110.png",
+                "/bully225.png"],
+  "descripcion":"Pegamento de aplicación uniforme que ofrece una buena adherencia para tareas, manualidades y trabajos donde se requiere una fijación práctica y limpia."
+},
+
+{
+  "id": 83,
+  "nombre": "Marcador",
+  "categoria": "Marcador",
+  "alias": [
+    "marcador",
+    "marcadores",
+    "plumón",
+    "plumones",
+    "marcador permanente",
+    "marcador para pizarron",
+    "marcador para pizarrón",
+    "marcador de agua",
+    "marcador escolar",
+    "plumón permanente",
+    "plumón para pizarrón",
+    "marcador artístico"
+  ],
+  "tipos": [
+    "Permanente",
+    "Para Pizarron",
+    "De Agua"
+  ],
+  "imagenes": ["/marcador.png",
+              "/marcadorpermamente.png",
+              "/marcadordecolores.png",
+              "/marcadorpizzarron.png",
+              "/marcadorbacoloretos.png"],
+  "descripcion":"Marcadores disponibles para distintas superficies, necesidades y colores, desde escritura en pizarrón hasta señalización permanente y actividades artísticas."
+},
+
+{
+  "id": 84,
+  "nombre": "Cinta Adhesiva",
+  "categoria": "Cinta",
+   "alias": [
+    "cinta adhesiva",
+    "cinta",
+    "cinta transparente",
+    "cinta canela",
+    "cinta masking",
+    "masking tape",
+    "cinta para empaque",
+    "cinta para cajas",
+    "diurex",
+    "cinta adhesiva transparente",
+    "cinta escolar",
+    "cinta para oficina"
+  ],
+  "tipos": [
+    "Cinta Transparente Ancha",
+    "Cinta Canela",
+    "Cinta Transparente Grande",
+    "Cinta Transparente Mediana",
+    "Cinta Transparente Chica",
+    "Cinta Masking Grande",
+    "Cinta Masking Mediana",
+    "Cinta Msking Chica"
+  ],
+  "imagenes": ["/cinta.png",
+              "/cintacanela.png",
+              "/cintagrande.png",
+              "/cintamediana.png",
+              "/cintachica.png",
+              "/cintamaskinggrande.png",
+              "/cintamaskingmediana.png",
+              "/cintamaskingchica.png"],
+  "descripcion":"Material de fijación y empaque disponible en diversas presentaciones para sellar, unir, proteger o sujetar objetos y documentos."
+},
+
+{
+  "id": 85,
+  "nombre": "Pinturas Vinci",
+  "categoria": "Pintura",
+   "alias": [
+    "pintura vinci",
+    "vinci",
+    "pinturas vinci",
+    "pintura escolar",
+    "pintura para arte",
+    "pintura de colores",
+    "acrílicos vinci",
+    "pintura para manualidades",
+    "pintura lavable",
+    "pintura artística"
+  ],
+  "tipos": [
+    "Blanco",
+    "Naranja",
+    "Amarillo",
+    "Verde Limon",
+    "Verde Bandera",
+    "Verde Esmeralda",
+    "Plata",
+    "Oro",
+    "Rojo",
+    "Azul Cielo",
+    "Azul Rey",
+    "Azul Cobalto",
+    "Rosa",
+    "Cafe",
+    "Morado"
+  ],
+  "imagenes": ["/pinturas1.png",
+              "/pinturas2.png"],
+  "descripcion":"Pinturas de colores intensos recomendadas para trabajos escolares, decoración, arte y proyectos creativos que requieren acabados llamativos."
+} ,
+
+{
+  "id": 86,
+  "nombre": "Bicolor",
+  "categoria": "Bicolor",
+  "alias": [
+    "bicolor",
+    "lapiz bicolor",
+    "lápiz bicolor",
+    "bicolor delgado",
+    "bicolor jumbo",
+    "bicolor mega",
+    "lapiz rojo azul",
+    "lápiz rojo azul",
+    "lapiz doble color",
+    "lápiz doble color",
+    "bicolor escolar"
+  ],
+  "tipos": [
+    "Delgado",
+    "Jumbo",
+    "Mega"
+  ],
+  "imagenes": ["/bicolor.png",
+              "/bicolorjumbo2.png",
+              "/bicolormega.png"], 
+  "descripcion":"Lápiz con doble color que facilita actividades escolares, correcciones, subrayados y ejercicios que requieren diferenciar información visualmente."
+},
+
+{
+  "id": 87,
+  "nombre": "Acuarela",
+  "categoria": "Acuarela",
+   "alias": [
+    "acuarela",
+    "acuarelas",
+    "pintura acuarela",
+    "set de acuarelas",
+    "acuarela escolar",
+    "acuarelas pelikan",
+    "acuarelas smarty",
+    "pintura con agua",
+    "arte acuarela",
+    "acuarela para niños"
+  ],
+  "tipos": [
+    "Smarty Grande",
+    "Smarty Chica",
+    "Pelikan Grande",
+    "Pelikan Chica"
+  ],
+  "imagenes": ["/acuarela.png",
+            "/acuarela5.png",
+            "/acuarela3.png",
+            "/acuarela4.png"],
+  "descripcion":"Set de acuarelas ideal para explorar técnicas de pintura, mezclas de color y proyectos artísticos con efectos suaves y transparentes."
+},
+
+{
+  "id": 88,
+  "nombre": "Dados",
+  "categoria": "Dados",
+   "alias": [
+    "dados",
+    "dado",
+    "dados juego",
+    "dados de juego",
+    "dados escolares",
+    "dados educativos",
+    "dados grandes",
+    "dados medianos",
+    "dados chicos",
+    "cubos de juego"
+  ],
+  "tipos": [
+    "Grande",
+    "Mediano",
+    "Chico"
+  ],
+  "imagen":["/dados.png"],
+  "descripcion":"Accesorio utilizado en actividades recreativas, dinámicas educativas, juegos de mesa y ejercicios de aprendizaje interactivo."
+},
+
+{
+  "id": 89,
+  "nombre": "Lapiceros Y puntillas",
+  "categoria": "Lapicero",
+   "alias": [
+    "lapicero",
+    "lapiceros",
+    "portaminas",
+    "lapicero punto 5",
+    "lapicero punto 7",
+    "lapicero mecanico",
+    "lapicero mecánico",
+    "lapicero escolar",
+    "lapicero con puntillas",
+    "minas para lapicero",
+    "repuesto de puntillas"
+  ],
+  "tipos": [
+    "Punto 5",
+    "Punto 7"
+  ],
+  "imagen": ["/lapicero.png"],
+  "descripcion":"Instrumento de escritura reutilizable que brinda trazos precisos y uniformes, acompañado de puntillas para un uso continuo."
+},
+
+{
+  "id": 90,
+  "nombre": "Gises",
+  "categoria": "Gises",
+  "modelo": "Caja y Sueltos",
+   "alias": [
+    "gises",
+    "giz",
+    "tiza",
+    "tizas",
+    "gis blanco",
+    "gis de colores",
+    "gises para pizarron",
+    "gises para pizarrón",
+    "tiza escolar",
+    "tiza de colores",
+    "gises escolares"
+  ],
+  "tipos": [
+    "Blanco",
+    "De Colores"
+  ],
+  "imagenes": ["/gises.png",
+              "/gises2.png"],
+  "descripcion":"Material de escritura para pizarrones y superficies adecuadas, disponible en colores variados para enseñanza, señalización y actividades didácticas."
+},
+
+{
+  "id": 91,
+  "nombre": "Broches Y Pins",
+  "categoria": "Gises",
+  "modelo": "Caja y Sueltos",
+   "alias": [
+    "broches",
+    "pins",
+    "chinches",
+    "broche baco",
+    "broche latonado",
+    "broche aleman",
+    "broches para papeles",
+    "pins escolares",
+    "chinche para corcho",
+    "sujetapapeles",
+    "broches para oficina"
+  ],
+  "tipos": [
+    "Broche Baco",
+    "Broche Latonado Tipo Alemán",
+    "Chinches",
+    "Pins"
+  ],
+  "imagenes": ["/broche.png",
+              "/brochealeman.png",
+              "/brochechinche.png",
+              "/brochepin.png"],
+  "descripcion":"Artículos de sujeción y fijación utilizados para organizar documentos, colocar avisos, decorar tableros o realizar trabajos escolares."
+},
+
+{
+  "id": 92,
+  "nombre": "Diccionario Escolar",
+  "categoria": "Diccionario",
+  "alias": [
+  "diccionario",
+  "diccionarios",
+
+  "mi primer diccionario",
+  "primer diccionario",
+  "diccionario infantil",
+  "diccionario para niños",
+  "diccionario niños",
+
+  "diccionario basico",
+  "diccionario básico",
+  "basico",
+  "básico",
+
+  "diccionario escolar",
+  "escolar",
+
+  "diccionario lengua española",
+  "diccionario lengua espanola",
+  "lengua española",
+  "lengua espanola",
+  "español",
+  "espanol",
+
+  "diccionario pocket",
+  "pocket",
+  "diccionario ingles español",
+  "diccionario ingles espanol",
+  "diccionario inglés español",
+  "diccionario inglés-español",
+  "ingles español",
+  "ingles espanol",
+  "inglés español",
+  "english dictionary",
+
+  "diccionario para primaria",
+  "diccionario estudiante",
+  "diccionario de palabras",
+  "libro diccionario"
+],
+  "tipos": [
+    "Mi Primer Diccionario",
+    "Diccionario Basico",
+    "Diccionario Escolar",
+    "Diccionario Lengua Española",
+    "Diccionario Pocket Ingles-Español"
+  ],
+  "imagenes": ["/diccionario1.png",
+              "/diccionario2.png",
+               "/diccionario3.png",
+               "/diccionario4.png",
+               "/diccionario5.png"],
+  "descripcion":"Recurso educativo diseñado para introducir a los niños al significado de palabras, fortaleciendo la lectura y ampliando su vocabulario."
+},
+
+{
+  "id": 93,
+  "nombre": "Ley Federal Del Trabajo",
+  "categoria": "Diccionario",
+  "alias": [
+    "ley federal del trabajo",
+    "ley del trabajo",
+    "ley laboral",
+    "codigo laboral",
+    "código laboral",
+    "ley trabajo mexico",
+    "ley laboral mexico",
+    "derechos laborales",
+    "documento laboral"
+  ],
+  "tipos": [
+  ],
+  "imagen": ["/ley.png"],
+  "descripcion":"Compendio que reúne la legislación laboral mexicana, útil para estudiantes, trabajadores y personas interesadas en conocer sus derechos y obligaciones."
+},
+
+{
+  "id": 94,
+  "nombre": "Faomy Moldeable",
+  "categoria": "Foamy",
+  "modelo": "En Bolsa y Paquete",
+   "alias": [
+    "foamy",
+    "foami",
+    "foamy moldeable",
+    "foamy de colores",
+    "foamy para manualidades",
+    "goma eva",
+    "goma eva moldeable",
+    "material moldeable",
+    "foamy escolar",
+    "foamy creativo",
+    "espuma moldeable",
+    "fomy",
+    "fomi"
+  ],
+  "tipos": [
+    "Lila",
+    "Fiusha",
+    "Verde Limon",
+    "Café",
+    "Negro",
+    "Naranja",
+    "Carne",
+    "Azul Cielo",
+    "Verde Bandera",
+    "Blanco",
+    "Rosa Pastel",
+    "Rojo",
+    "Azul Rey"
+  ],
+  "imagenes": ["/moldeable.png",
+              "/foamimoldeable.png"],
+  "descripcion":"Material flexible y ligero que puede moldearse fácilmente para crear figuras, adornos, personajes y proyectos manuales personalizados."
+},
+
+{
+  "id": 95,
+  "nombre": "Plantillas De Stickers",
+  "categoria": "Stickers",
+  "alias": [
+    "stickers",
+    "sticker",
+    "plantillas stickers",
+    "plantilla de stickers",
+    "pegatinas",
+    "calcomanias",
+    "calcomanías",
+    "stickers escolares",
+    "stickers decorativos",
+    "stickers para cuaderno",
+    "stickers para agenda",
+    "stickers grandes",
+    "stickers chicos",
+    "stiquer",
+    "estiquer"
+  ],  
+  "tipos": [
+    "Variados",
+    "Grandes",
+    "Chicos"
+  ],
+  "imagen": ["/stickers.png"],
+  "descripcion":"Colección de adhesivos decorativos ideales para personalizar cuadernos, agendas, trabajos escolares, regalos y proyectos creativos."
+},
+
+{
+  "id": 96,
+  "nombre": "Papel De Regalo",
+  "categoria": "Regalo",
+  "modelo":"En Pliego",
+  "alias": [
+    "papel de regalo",
+    "papel regalo",
+    "papel para regalo",
+    "papel envoltura",
+    "papel para envolver",
+    "papel de envoltura",
+    "papel decorativo",
+    "papel para regalos",
+    "papel para envolver regalos",
+    "papel regalo en pliego"
+  ],
+  "tipos": [
+    "Varios"
+  ],
+  "imagen": ["/regalo.jpg"],
+  "descripcion":"Perfecto para envolver obsequios de forma elegante y dar una presentación especial en cumpleaños, aniversarios, festividades y cualquier ocasión importante."
+},
+
+{
+  "id": 97,
+  "nombre": "Papel Lustre",
+  "categoria": "Lustre",
+  "modelo":" En Pliego",
+  "alias": [
+    "papel lustre",
+    "papel brillante",
+    "papel de colores",
+    "papel lustre en pliego",
+    "papel decorativo",
+    "papel escolar",
+    "papel brillante colores",
+    "papel lustre colores",
+    "papel manualidades",
+    "papel para manualidades"
+  ],
+  "tipos": [
+    "Café Obscuro",
+    "Verde Bandera",
+    "Morado",
+    "Rojo",
+    "Fiusha",
+    "Negro",
+    "Azul Rey",
+    "Verde limon",
+    "Amarillo",
+    "Verde Pistache",
+    "Naranja",
+    "Guinda",
+    "Azul Cielo",
+    "Rosa Pastel",
+    "Blanco",
+    "Lila Pastel",
+    "Café Claro",
+    "Oro",
+    "PLata",
+    "Gris",
+    "Azul Marino"
+
+  ],
+  "imagenes": ["/lustre.png",
+               "/lustre2.png"],
+  "descripcion":"Papel brillante ideal para trabajos escolares, decoración de carteles, figuras recortables, manualidades y proyectos creativos que requieren colores vivos."
+},
+
+{
+  "id": 98,
+  "nombre": "Papel Crepe",
+  "categoria": "Crepe ",
+  "modelo":" En Pliego",
+  "alias": [
+    "papel crepe",
+    "papel crepé",
+    "crepe",
+    "papel para flores",
+    "papel decorativo",
+    "papel para manualidades",
+    "crepe colores",
+    "papel crepe en pliego",
+    "papel flexible",
+    "papel texturizado"
+  ],
+  "tipos": [
+    "Café Obscuro",
+    "Verde Bandera",
+    "Morado",
+    "Rojo",
+    "Fiusha",
+    "Negro",
+    "Azul Rey",
+    "Verde limon",
+    "Amarillo",
+    "Verde Pistache",
+    "Naranja",
+    "Guinda",
+    "Azul Cielo",
+    "Rosa Pastel",
+    "Blanco",
+    "Lila Pastel",
+    "Café Claro",
+    "Oro",
+    "PLata",
+    "Gris",
+    "Azul Marino"
+
+  ],
+  "imagen": ["/crepe.png"],
+  "descripcion":"Material flexible y texturizado utilizado para elaborar flores, adornos, disfraces, decoraciones temáticas y actividades artísticas."
+},
+
+{
+  "id": 99,
+  "nombre": "Papel China",
+  "categoria": "China",
+  "modelo":"En Pliego y Bolsa",
+  "alias": [
+    "papel china",
+    "papel de china",
+    "papel seda",
+    "papel para piñata",
+    "papel decorativo",
+    "papel delgado",
+    "papel china colores",
+    "papel para manualidades",
+    "papel ligero"
+  ],
+  "tipos": [
+    "Café Obscuro",
+    "Verde Bandera",
+    "Morado",
+    "Rojo",
+    "Fiusha",
+    "Negro",
+    "Azul Rey",
+    "Verde limon",
+    "Amarillo",
+    "Verde Pistache",
+    "Naranja",
+    "Guinda",
+    "Azul Cielo",
+    "Rosa Pastel",
+    "Blanco",
+    "Lila Pastel",
+    "Café Claro",
+    "Oro",
+    "PLata",
+    "Gris",
+    "Azul Marino"
+
+  ],
+  "imagenes": ["/china.png",
+                "/china2.png",
+                "/china3.png"],
+  "descripcion":"Ligero y versátil, excelente para piñatas, decoraciones, pompones, envolturas delicadas y proyectos escolares de gran colorido."
+},
+
+{
+  "id": 100,
+  "nombre": "Papel Bond",
+  "categoria": "Bond",
+  "modelo":"En Pliego",
+   "alias": [
+    "papel bond",
+    "bond",
+    "papel bond rotafolio",
+    "rotafolio",
+    "papel para rotafolio",
+    "papel para presentaciones",
+    "papel blanco",
+    "papel para imprimir",
+    "papel escolar",
+    "papel grande",
+    "rotafolio"
+  ],
+  "tipos": [
+    "Cuadro Grande",
+    "Cuadro Chico",
+    "Blanco"
+  ],
+  "imagenes": ["/bond.png",
+                "/bond2.png",
+                "/bond3.png"],
+  "descripcion":"Ideal para elaborar rotafolios, dibujos, esquemas, mapas conceptuales, presentaciones escolares y trabajos de exposición."
+},
+
+{
+  "id": 101,
+  "nombre": "Plastilina",
+  "categoria": "Plastilina",
+  "modelo":"Barra y Caja",
+   "alias": [
+    "plastilina",
+    "plastilina escolar",
+    "plastilina de colores",
+    "plastilina moldeable",
+    "masa moldeable",
+    "plastilina para niños",
+    "plastilina para manualidades",
+    "plastilina caja",
+    "plastilina barra",
+    "masa para moldear"
+  ],
+  "tipos": [
+    "Amarillo",
+    "Azul Cielo",
+    "Azul Oscuro",
+    "Blanco",
+    "Café",
+    "Rosa Carne",
+    "Gris",
+    "Gris Oscuro",
+    "Lila",
+    "Menta",
+    "Naranja",
+    "Negro",
+    "Rojo",
+    "Rosa",
+    "Verde",
+    "Verde Limón",
+    "Verde Oscuro",
+    "Violeta"
+
+  ],
+  "imagenes": ["/plastilina2.png",
+              "/plastilina3.png",
+              "/plastilina4.png"],
+  "descripcion":"Material moldeable perfecto para desarrollar la creatividad, realizar figuras tridimensionales, maquetas y actividades recreativas o educativas."
+},
+
+{
+  "id": 102,
+  "nombre": "Seguros",
+  "categoria": "Seguro",
+   "alias": [
+    "seguros",
+    "seguro",
+    "broche seguro",
+    "clips seguridad",
+    "seguro para ropa",
+    "seguro metalico",
+    "seguro escolar",
+    "alfiler seguro",
+    "broche metálico",
+    "sujetador"
+  ],
+  "tipos": [
+    "Numero 00",
+    "Numero 0",
+    "Numero 2",
+    "Numero 3",
+    "Numero 4"
+  ],
+  "imagenes": ["/seguro.png",
+              "/seguro2.jpeg",
+              "/seguro3.jpeg"],
+  "descripcion":"Accesorio práctico para sujetar documentos, etiquetas, manualidades o piezas de tela de manera rápida y segura."
+},
+
+{
+  "id": 103,
+  "nombre": "Postips",
+  "categoria": "Postip",
+  "alias": [
+    "post its",
+    "post it",
+    "postits",
+    "notas adhesivas",
+    "notas pegajosas",
+    "notas recordatorio",
+    "post it cuadrados",
+    "post it corazón",
+    "post it bandera",
+    "stick notes"
+  ],
+  "tipos": [
+    "Cuadrados",
+    "Corazon",
+    "Bandera"
+  ],
+  "imagenes": ["/postip.png",
+              "/postip2.png",
+              "/postip3.png"],
+  "descripcion":"Notas adhesivas diseñadas para organizar información, marcar páginas, dejar recordatorios o resaltar tareas importantes."
+},
+
+{
+  "id": 104,
+  "nombre": "Moños Para Regalo",
+  "categoria": "Moño",
+  "modelo":"Metalico y Opaco",
+   "alias": [
+    "moños",
+    "moño",
+    "moños para regalo",
+    "moño para regalo",
+    "moños decorativos",
+    "lazo regalo",
+    "moño metálico",
+    "moño opaco",
+    "moños grandes",
+    "moños chicos"
+  ],
+  "tipos": [
+    "Grande",
+    "Mediano",
+    "Chico"
+  ],
+  "imagenes": ["/moño.png",
+              "/moño2.jpeg"],
+  "descripcion":"Complemento decorativo que aporta un toque atractivo y elegante a cajas, bolsas, envolturas y arreglos para regalo. Disponible en diferentes colores y tamaños"
+},
+
+{
+  "id": 105,
+  "nombre": "Liston De Tela",
+  "categoria": "Liston",
+  "modelo":"Distintos Colores",
+  "alias": [
+    "liston",
+    "listón",
+    "liston de tela",
+    "listón de tela",
+    "listones",
+    "cinta de tela",
+    "liston decorativo",
+    "listón para regalo",
+    "liston manualidades",
+    "cinta decorativa"
+  ],
+  "tipos": [
+    "1/2 cm",
+    "1 cm",
+    "2 cm",
+    "2 1/2 cm ",
+    "4cm"
+  ],
+  "imagen": ["/Liston2.png"],
+  "descripcion":"Ideal para decoración, elaboración de recuerdos, manualidades, arreglos florales y presentación de obsequios."
+},
+
+{
+  "id": 106,
+  "nombre": "Caja Para Regalo",
+  "categoria": "Seguro",
+  "modelo":"Blanca",
+   "alias": [
+    "caja regalo",
+    "caja para regalo",
+    "cajas de regalo",
+    "caja decorativa",
+    "caja blanca",
+    "caja de obsequio",
+    "caja para obsequios",
+    "caja numero",
+    "caja regalo grande",
+    "caja para empaquetar"
+  ],
+  "tipos": [
+    "Numero 1",
+    "Numero 2",
+    "Numero 3",
+    "Numero 4",
+    "Numero 5",
+    "Numero 6",
+    "Numero 7",
+    "Numero 8",
+    "Numero 9",
+    "Numero 10",
+    "Numero 11",
+    "Numero 12",
+    "Numero 13",
+    "Numero 14",
+    "Numero 15",
+    "Numero 16",
+    "Numero 17",
+    "Numero 18",
+    "Numero 19",
+    "Numero 20",
+    "Numero 21",
+    "Numero 22",
+    "Numero 23",
+    "Numero 24",
+    "Numero 25",
+    "Numero 26",
+    "Numero 27",
+    "Numero 28",
+    "Numero 29",
+    "Numero 30",
+    "Numero 31",
+    "Numero 32",
+    "Numero 33",
+    "Numero 34",
+    "Numero 35",
+    "Numero 36",
+    "Numero 37",
+    "Numero 38",
+    "Numero 39",
+    "Numero 40"
+
+  ],
+  "imagen": ["/caja.png"],
+  "descripcion":"Caja resistente disponible en distintos tamaños para proteger y presentar regalos de manera ordenada y elegante."
+},
+
+{
+  "id": 107,
+  "nombre": "Cordon Para Gafete",
+  "categoria": "Cordon",
+  "alias": [
+    "cordon",
+    "cordón",
+    "cordon para gafete",
+    "cordón gafete",
+    "lanyard",
+    "porta gafete",
+    "cinta para gafete",
+    "cordon identificacion",
+    "cordon credencial",
+    "cordon escolar"
+  ],
+  "tipos": [
+    "Vino",
+    "Rosa Claro",
+    "Verde Bandera",
+    "Blanco",
+    "Morado",
+    "Amarillo",
+    "Naranja",
+    "Negro",
+    "Azul Cielo",
+    "Fiusha",
+    "Verde Limón",
+    "Café",
+    "Rojo",
+    "Azul Fuerte"
+  ],
+  "imagenes": ["/cordon2.png",
+              "/cordon3.png"],
+  "descripcion":"Diseñado para portar identificaciones, credenciales o gafetes de forma cómoda durante eventos, escuelas u oficinas."
+},
+
+{
+  "id": 108,
+  "nombre": "Liston Curly",
+  "categoria": "Liston",
+  "modelo":"Metalico y Opaco",
+  "alias": [
+    "liston curly",
+    "listón curly",
+    "curly",
+    "liston rizado",
+    "listón rizado",
+    "liston para regalo",
+    "listón decorativo",
+    "liston metalico curly",
+    "listón metálico curly",
+    "liston decoracion"
+  ],
+  "tipos": [
+    "Verde Bandera",
+    "Verde Limón",
+    "Naranja",
+    "Morado ",
+    "Azul Turquesa",
+    "Plata",
+    "Azul Rey",
+    "Oro",
+    "Rojo",
+    "Lila",
+    "Verde Menta",
+    "Verde Pistache",
+    "Blanco"
+  ],
+  "imagen": ["/curly2.png"],
+  "descripcion":"Listón decorativo que puede rizarse fácilmente para adornar regalos, centros de mesa, arreglos y decoraciones festivas."
+},
+
+{
+  "id": 109,
+  "nombre": "Bola De Unicel",
+  "categoria": "Bola",
+  "alias": [
+    "bola unicel",
+    "bolas de unicel",
+    "unicel",
+    "esfera unicel",
+    "esferas de unicel",
+    "bola espuma",
+    "bola para manualidades",
+    "unicel esferas",
+    "bola decorativa",
+    "esfera para decoracion"
+  ],
+  "tipos": [
+    "Numero 0",
+    "Numero 1",
+    "Numero 2",
+    "Numero 3",
+    "Numero 4",
+    "Numero 5",
+    "Numero 6",
+    "Numero 7",
+    "Numero 8",
+    "Numero 9",
+    "Numero 10",
+    "Numero 11",
+    "Numero 12"
+  ],
+  "imagen": ["/bola.png"],
+  "descripcion":"Material ligero utilizado en maquetas, decoraciones, proyectos escolares, centros de mesa y manualidades tridimensionales."
+},
+
+
+{
+  "id": 110,
+  "nombre": "Llavero",
+  "categoria": "Llavero",
+  "modelo":"Varios Modelos  ",
+  "alias": [
+    "llavero",
+    "llaveros",
+    "llavero educativo",
+    "llavero escolar",
+    "llavero tabla multiplicar",
+    "llavero silabario",
+    "llavero aprendizaje",
+    "llavero didactico",
+    "llavero didáctico",
+    "llavero plastico",
+    "tabla de multiplicar",
+    "tablas de multiplicar",
+    "tabla para multiplicar",
+    "tablas para multiplicar"
+  ],
+  "tipos": [
+    "Tabla De Multiplicar",
+    "Silabario"
+  ],
+  "imagenes": ["/llavero.png",
+              "/silabario.png"],
+  "descripcion":"Herramienta educativa portátil con información útil para reforzar el aprendizaje de manera práctica y accesible."
+},
+
+{
+  "id": 111,
+  "nombre": "Lupa",
+  "categoria": "Lupa",
+  "alias": [
+    "lupa",
+    "lupas",
+    "lupa escolar",
+    "lupa grande",
+    "lupa mediana",
+    "lupa chica",
+    "lupa de aumento",
+    "lupa para lectura",
+    "lupa ciencia",
+    "lupa investigacion"
+  ],
+  "tipos": [
+    "40mm",
+    "50mm",
+    "75mm",
+    "90mm"
+  ],
+  "imagenes": ["/lupa40.png",
+               "/lupa.png",
+               "/lupa75.png",
+               "/lupa90.png"],
+  "descripcion":"Instrumento que facilita la observación de detalles pequeños, ideal para actividades escolares, lectura o exploración científica."
+},
+
+{
+  "id": 112,
+  "nombre": "Engargolado",
+  "categoria": "Engargolado",
+  "modelo":"Engargolado y Resortes",
+   "alias": [
+    "engargolado",
+    "engargolar",
+    "resorte engargolado",
+    "encuadernado",
+    "engrapado espiral",
+    "resorte para cuaderno",
+    "encuadernacion",
+    "engargolado hojas",
+    "encuadernar documentos",
+    "resortes espiral"
+  ],
+  "tipos": [
+    "60 Hojas",
+    "80 Hojas",
+    "100 Hojas",
+    "120 Hojas",
+    "140 Hojas",
+    "160 Hojas",
+    "220 Hojas",
+    "280 Hojas",
+    "340 Hojas"
+  ],
+  "imagen": ["/resorte.png"],
+  "descripcion":"Resortes y Perforaciones para encuadernar documentos, reportes, tesis, proyectos y trabajos que requieren una presentación profesional."
+},
+
+{
+  "id": 113,
+  "nombre": "Pastas Para Engargolar",
+  "categoria": "Pastas",
+  "modelo":"Transparente y Opaco",
+  "alias": [
+    "pastas engargolar",
+    "pastas para engargolar",
+    "cubiertas engargolar",
+    "pastas transparentes",
+    "pastas opacas",
+    "cubiertas cuaderno",
+    "pastas documento",
+    "protector engargolado",
+    "portada engargolado",
+    "pastas escolares"
+  ],
+  "tipos": [
+    "Rosa",
+    "Verde Bandera",
+    "Rojo",
+    "Verde Limón",
+    "Azul Fuerte",
+    "Amarillo",
+    "Morado",
+    "Rosa Claro",
+    "Lila",
+    "Vino",
+    "Verde Menta",
+    "Azul Cielo",
+    "Naranja",
+    "Blanco"
+  ],
+  "imagen": ["/pasta.png"],
+  "descripcion":"Cubiertas diseñadas para proteger documentos engargolados y mejorar la presentación de trabajos escolares o empresariales."
+},
+
+{
+  "id": 114,
+  "nombre": "Hojas De Color",
+  "categoria": "Hojas",
+  "alias": [
+    "hojas de color",
+    "hojas color",
+    "papel de colores",
+    "papel color",
+    "hojas para imprimir color",
+    "hojas escolares",
+    "papel de colores carta",
+    "hojas decorativas",
+    "papel manualidades color",
+    "hojas multicolor"
+  ],
+  "tipos": [
+    "Rosa",
+    "Verde Bandera",
+    "Rojo",
+    "Verde Limón",
+    "Azul Fuerte",
+    "Amarillo",
+    "Morado",
+    "Rosa Claro",
+    "Lila",
+    "Vino",
+    "Verde Menta",
+    "Azul Cielo",
+    "Naranja",
+    "Blanco"
+  ],
+  "imagen": ["/hojas.png"],
+  "descripcion":"Perfectas para imprimir, decorar, realizar invitaciones, manualidades y proyectos que requieran variedad de colores."
+},
+
+{
+  "id": 115,
+  "nombre": "Globos De Colores",
+  "categoria": "Globo",
+  "alias": [
+    "globos",
+    "globos de colores",
+    "globo",
+    "globos fiesta",
+    "globos decorativos",
+    "globos numero",
+    "globos payaso",
+    "globos para fiesta",
+    "globos infantiles",
+    "globos de latex"
+  ],
+  "tipos": [
+    "Numero 2",
+    "Numero 3",
+    "Numero 5",
+    "Numero 6",
+    "Numero 7",
+    "Numero 9",
+    "Globo Payaso",
+    "Globo p-20",
+    "Numero p-29",
+    "Globo De Corazón"
+  ],
+  "imagen": ["/globo.png"],
+  "descripcion":"Ideales para fiestas, celebraciones, eventos escolares y decoraciones temáticas que buscan crear ambientes alegres."
+},
+
+{
+  "id": 116,
+  "nombre": "Grapadora Smart",
+  "categoria": "Grapadora",
+   "alias": [
+    "grapadora",
+    "engrampadora",
+    "engrapadora",
+    "grapadora smart",
+    "grapar hojas",
+    "engrapar papeles",
+    "grapadora oficina",
+    "grapadora escolar",
+    "stapler",
+    "grapadora metalica"
+  ],
+  "tipos": [
+   
+  ],
+  "imagen": ["/grapadora.png"],
+  "descripcion":"Herramienta de oficina y escuela utilizada para unir hojas de forma rápida, práctica y segura."
+},
+
+{
+  "id": 117,
+  "nombre": "Limpia Pipas",
+  "categoria": "Limpia",
+  "modelo":"Metalico y Opaco",
+   "alias": [
+    "limpia pipas",
+    "limpiapipas",
+    "chenille",
+    "alambre flexible",
+    "limpia pipas metalico",
+    "limpiapipas colores",
+    "material manualidades",
+    "limpia pipas escolares",
+    "alambre decorativo",
+    "pipe cleaners"
+  ],
+  "tipos": [
+    "Azul Rey",
+    "Azul Cielo",
+    "Naranja",
+    "Rojo",
+    "Carne",
+    "Fiusha",
+    "Plata",
+    "Oro",
+    "Morado",
+    "Verde Limón"
+  ],
+  "imagenes": ["/pipas.png",
+              "/pipas2.jpg"],
+  "descripcion":"Material flexible para crear figuras, adornos, personajes, flores y una gran variedad de manualidades creativas."
+},
+
+{
+  "id": 118,
+  "nombre": "Pompones Smarty",
+  "categoria": "Pompones",
+  "alias": [
+    "pompones",
+    "pompon",
+    "pompones smarty",
+    "pompones chicos",
+    "pompones grandes",
+    "pompon decorativo",
+    "pompones manualidades",
+    "bolitas suaves",
+    "pompon escolar",
+    "pompones colores"
+  ],
+  "tipos": [
+    "Grandes",
+    "Chicos"
+  ],
+  "imagenes": ["/pompones.png",
+              "/pompones2.png"],
+  "descripcion":"Accesorio decorativo utilizado en trabajos escolares, disfraces, adornos y proyectos de arte infantil."
+},
+
+{
+  "id": 119,
+  "nombre": "Kola Loka",
+  "categoria": "kolaLoca",
+  "alias": [
+    "kola loka",
+    "cola loka",
+    "cola loca",
+    "kola loca",
+    "pegamento instantaneo",
+    "pegamento rapido",
+    "pegamento fuerte",
+    "super glue",
+    "adhesivo instantaneo",
+    "pegamento pequeño"
+  ],
+  "tipos": [
+    "2 gramos"
+  ],
+  "imagen": ["/loka.png"],
+  "descripcion":"Adhesivo de secado rápido ideal para unir piezas pequeñas de plástico, metal, cerámica, madera y otros materiales."
+},
+
+{
+  "id": 120,
+  "nombre": "Hilo",
+  "categoria": "hilo",
+   "alias": [
+    "hilo",
+    "hilos",
+    "hilo de coser",
+    "hilo manualidades",
+    "hilo bordado",
+    "hilo colores",
+    "hilo para costura",
+    "hilo decorativo",
+    "hilo escolar",
+    "hilo artesanal"
+  ],
+  "tipos": [
+    "Amarillo",
+    "Carne",
+    "Rosa"
+  ],
+  "imagen": ["/hilo.png"],
+  "descripcion":"Material versátil utilizado en costura, manualidades, decoración, bordado y múltiples proyectos creativos."
+},
+
+{
+  "id": 121,
+  "nombre": "Botones",
+  "categoria": "boton",
+  "alias": [
+    "botones",
+    "boton",
+    "botones grandes",
+    "botones chicos",
+    "botones medianos",
+    "boton decorativo",
+    "botones ropa",
+    "botones manualidades",
+    "boton escolar",
+    "botones plastico"
+  ],
+  "tipos": [
+    "Grande",
+    "Mediano",
+    "Chico"
+  ],
+  "imagen": ["/boton.png"],
+  "descripcion":"Complemento utilizado tanto para confección de prendas como para decoración de manualidades y proyectos escolares."
+},
+
+{
+  "id": 122,
+  "nombre": "Pincel Punta Chata",
+  "categoria": "pincel",
+  "alias": [
+    "pincel punta chata",
+    "pincel plano",
+    "brocha pintura",
+    "pincel chato",
+    "pinceles",
+    "pincel grande",
+    "pincel escolar",
+    "pincel pintura",
+    "brocha escolar",
+    "pincel arte"
+  ],
+  "tipos": [
+    "Numero 0",
+    "Numero 2",
+    "Numero 4 ",
+    "Numero 6 ",
+    "Numero 8",
+    "Numero 12",
+    "Numero 14",
+    "Numero 16",
+    "Numero 18",
+    "Numero 20"
+    ],
+  "imagen": ["/pincel1.png"],
+  "descripcion":"Excelente para cubrir áreas amplias, aplicar pintura de manera uniforme y realizar trazos rectos en trabajos artísticos."
+},
+
+{
+  "id": 123,
+  "nombre": "Pincel Punta Redonda",
+  "categoria": "pincel",
+  "alias": [
+    "pincel punta redonda",
+    "pincel redondo",
+    "pinceles",
+    "brocha fina",
+    "pincel detalle",
+    "pincel pintura",
+    "pincel escolar",
+    "pincel arte",
+    "pincel fino",
+    "pincel acuarela"
+  ],
+  "tipos": [
+    "Numero 00",
+    "Numero 0",
+    "Numero 2",
+    "Numero 4 ",
+    "Numero 6 ",
+    "Numero 8",
+    "Numero 12",
+    "Numero 14",
+    "Numero 16",
+    "Numero 18",
+    "Numero 20"
+    ],
+  "imagen": ["/pincel2.png"],
+  "descripcion":"Ideal para detalles finos, contornos, líneas curvas y trabajos que requieren mayor precisión en la aplicación de pintura."
+},
+
+{
+  "id": 124,
+  "nombre": "Papael Manila",
+  "categoria": "Maila",
+   "alias": [
+    "papel manila",
+    "manila",
+    "papel manila",
+    "papel marron",
+    "papel kraft",
+    "papel para sobres",
+    "papel resistente",
+    "papel escolar",
+    "papel para carteles",
+    "papel empaque"
+  ],
+  "tipos": [
+    "Pliego",
+    "Sobre "
+    ],
+  "imagenes": ["/manila.png",
+               "/manila2.png",
+                "/manila3.png"],
+  "descripcion":"Material resistente ampliamente utilizado para sobres, carteles, trabajos escolares, forrado y proyectos de presentación."  
+},
+
+{
+  "id": 125,
+  "nombre": "Bolitas De Hidro Gel",
+  "categoria": "Gel",
+  "alias": [
+    "hidrogel",
+    "bolitas hidrogel",
+    "gel de agua",
+    "bolas de agua",
+    "esferas de gel",
+    "hidrogel decorativo",
+    "bolitas decorativas",
+    "gel para plantas",
+    "bolas de gel",
+    "agua gel"
+  ],
+  "tipos": [
+    "Amarillo",
+    "Rojo",
+    "Verde",
+    "Azul"
+    ],
+  "imagen": ["/bolitas.png"],
+  "descripcion":"Esferas absorbentes que retienen agua, ideales para decoración de floreros, centros de mesa y actividades recreativas."
+},
+
+{
+  "id": 126,
+  "nombre": "Juegos De Mesa",
+  "categoria": "Loteria",
+  "alias": [
+    "juegos de mesa",
+    "juego de mesa",
+    "loteria",
+    "domino",
+    "dominó",
+    "naipes",
+    "cartas poker",
+    "uno",
+    "uno mini",
+    "tangram",
+    "juegos educativos",
+    "juegos recreativos"
+  ],
+  "tipos": [
+    "Loteria",
+    "Domino",
+    "Naipes",
+    "Poker",
+    "UNO Mini",
+    "Tangram"
+    ],
+  "imagenes": ["/loteria.png",
+              "/domino.png",
+               "/naipes.png",
+               "/poker.png",
+               "/unomini.png",
+               "/tangram.png"],
+  "descripcion":"Opciones recreativas y educativas que fomentan la convivencia, el aprendizaje, la estrategia y el entretenimiento familiar."
+},
+
+{
+  "id": 127,
+  "nombre": "Pistola De Silicon",
+  "categoria": "Silicon",
+   "alias": [
+    "pistola silicón",
+    "pistola de silicon",
+    "silicon caliente",
+    "silicona caliente",
+    "pistola pegamento",
+    "pegamento caliente",
+    "pistola manualidades",
+    "pistola adhesivo",
+    "hot glue gun",
+    "silicon escolar"
+  ],
+  "tipos": [
+   
+    ],
+  "imagen": ["/pistola.png"],
+  "descripcion":"Herramienta indispensable para aplicar silicón caliente de forma precisa en manualidades, decoraciones y reparaciones."
+},
+
+{
+  "id": 128,
+  "nombre": "Papel Cascaron",
+  "categoria": "Cascaron",
+  "modelo":" Cascaron E Ilustracion",
+  "alias": [
+    "papel cascaron",
+    "cascaron",
+    "carton cascaron",
+    "cartón cascarón",
+    "cascaron escolar",
+    "carton duro",
+    "cartón rígido",
+    "papel rigido",
+    "carton para maquetas",
+    "cascaron para carteles"
+  ],
+  "tipos": [
+    "Entero",
+    "1/2",
+    "1/4",
+    "1/8"
+    ],
+  "imagen": ["/cascaron.png"],
+  "descripcion":"Material rígido utilizado en maquetas, presentaciones escolares, carteles, exhibiciones y proyectos de diseño."
+}
+
+
+
+
+]
