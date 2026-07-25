@@ -19,10 +19,11 @@ function ProductoDetalle() {
 
   const indiceActual = imagenes.indexOf(imagenActiva);
 
-  useEffect(() => {
-  setImagenActiva(imagenes[0]);
-}, [id]);
-
+ useEffect(() => {
+  if (imagenes.length > 0) {
+    setImagenActiva(imagenes[0]);
+  }
+}, [id, imagenes]);
 const imagenAnterior = () => {
 
   const nuevoIndice =
