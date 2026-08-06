@@ -688,3 +688,101 @@ body {
     right:10px;
 }
 
+/* ==========================================
+   RESPONSIVE PARA CELULARES
+========================================== */
+
+@media (max-width: 992px){
+
+    .detalle-container{
+        padding:15px;
+        margin:20px auto;
+    }
+
+    .detalle-card{
+        flex-direction:column;
+        gap:25px;
+        padding:20px;
+        align-items:center;
+    }
+
+    /* Imagen */
+
+    .detalle-imagen{
+        width:100%;
+        flex:none;
+    }
+
+    .detalle-imagen-box{
+
+    width:100%;
+    max-width:340px;
+
+    aspect-ratio:1/1;
+
+    height:auto;
+}
+
+    .detalle-imagen-principal{
+
+        width:90%;
+        height:90%;
+        object-fit:contain;
+        touch-action: manipulation;
+    }
+
+    /* Texto */
+
+    .detalle-info{
+
+        width:100%;
+        overflow-wrap:break-word;
+    }
+
+    .detalle-info h1{
+
+        font-size:30px;
+        line-height:1.15;
+    }
+
+    .detalle-info h3{
+
+        font-size:24px;
+    }
+
+    .detalle-categoria{
+
+        font-size:18px;
+    }
+
+    .detalle-info p{
+
+        font-size:16px;
+        line-height:1.7;
+    }
+
+    /* Flechas */
+
+    .flecha{
+
+        width:36px;
+        height:36px;
+        font-size:18px;
+    }
+
+    .izquierda{
+
+        left:6px;
+    }
+
+    .derecha{
+
+        right:6px;
+    }
+
+    .btn-regresar{
+
+    width:max-content;
+}
+
+}

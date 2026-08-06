@@ -81,6 +81,8 @@ function ProductoDetalle() {
               src={imagenActiva}
               alt={producto.nombre}
               className="detalle-imagen-principal"
+              loading="lazy"
+              draggable="false"
               onMouseMove={(e) => {
 
                 const x =
